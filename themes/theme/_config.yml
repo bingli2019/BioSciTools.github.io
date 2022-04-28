@@ -1,0 +1,445 @@
+# Menu setting
+menu:
+  Home:
+    url: /
+    icon: fas fa-home
+  BioSciTools:
+    url: /bioscitools
+    icon: fas fa-book
+  Article:
+    icon: fas fa-list
+    children:
+      - name: Categories
+        url: /categories
+        icon: fas fa-bookmark
+      - name: Archives
+        url: /archives
+        icon: fas fa-archive
+  About:
+    url: /about
+    icon: fas fa-user-circle
+  # Contact:
+  #   url: /contact
+  #   icon: fas fa-comments
+  Friends:
+    url: /friends
+    icon: fas fa-address-book
+
+# Website start time.
+time:
+  enable: true
+  year: 2022
+  month: 04
+  date: 28
+  hour: 00
+  minute: 00
+  second: 00
+
+# Index cover carousel configuration.
+cover:
+  showPrevNext: true
+  showIndicators: true
+  autoLoop: true
+  duration: 500
+  intervalTime: 10000
+  useConfig: false # 是否使用配置文件, 在 _data/covers.json 下配置推荐文章, false则使用主题在文章中的配置 cover coverImg
+  # useConfig 使用方式: 将主题 hexo-theme-matery/source/_data/covers.json 移动到 my-blog/source/_data/下修改配置即可
+
+# Index page dream text
+dream:
+  enable: true
+  showTitle: true
+  title: BioSciTools
+  text: BioSciTools (Bioinformatics Science Tools), a desktop program developed based on Java 11, aims to make new exploration and contribution to the development of bioinformatics, and realize data analysis and visualization in the fields of sequence analysis, multimomics (transcriptomics, genomics, protein omics, metabonomics, single cell), microbiology, clinical, etc. The program inherits the excellent interactive components, perfect analysis function and beautiful operation interface of HiPlot (https://hiplot.com.cn), which I developed based VUE.js and Node.js, etc. 
+
+# Whether to display the musics.
+music:
+  enable: true
+  title:
+    enable: true
+    show: Hello Music
+  autoHide: true    # hide automaticaly
+  server: netease   # platform netease, tencent, kugou, xiami, baidu
+  type: playlist    # require song, playlist, album, search, artist
+  id: 503838841     # song id / playlist id / album id / search keyword
+  fixed: true
+  autoplay: true
+  theme: '#42b983'
+  loop: 'all'
+  order: 'random'
+  preload: 'auto'
+  volume: 0.7
+  listFolded: false
+  hideLrc: false
+
+# Whether to display the videos.
+video:
+  enable: false
+  showTitle: true
+  title:
+  url:
+  iframeUrl:
+  pic:
+  thumbnails:
+  height:
+  autoplay: false
+  theme: '#42b983'
+  loop: false
+  preload: 'auto'
+  volume: 0.7
+
+# Whether to display the title of the recommended posts
+recommend:
+  enable: true
+  showTitle: true
+  useConfig: false # 是否使用配置文件, 在 _data/recommends.json 下配置推荐文章, false则会走主题配置的 top 属性
+  # useConfig 使用方式: 将主题 hexo-theme-matery/source/_data/recommends.json 移动到 my-blog/source/_data/下修改配置即可
+
+# Configure website favicon and LOGO
+favicon: /favicon.png
+logo: /medias/logo.png
+
+# The configuration of the second button in the home banner,
+# including the display name of the button, the font awesome icon, and the hyperlink to the button.
+indexbtn:
+  enable: true
+  name: Github
+  icon: fab fa-github-alt
+  url: https://github.com/BioSciTools/BioSciTools.github.io
+
+# The configurations of the second line of home banner
+# icon/button will not show up if you leave the corresponding socialLink empty
+socialLink:
+  github:
+  email:
+  facebook:
+  twitter:
+  wechat:
+  weibo:
+  zhihu:
+  rss: false
+
+# Whether to activate the Post TOC, and Configure which title types are supported by TOC support.
+# You can add `toc: false` to the Front-matter of a post to turn off the TOC.
+toc:
+  enable: true
+  heading: h1, h2, h3, h4, h5
+  collapseDepth: 3
+  showToggleBtn: true
+
+# Code block
+code:
+  lang: true
+  copy: true
+  shrink: true
+  break: false
+
+# Whether to activate the copyright information of the blog and author when copying the post content.
+# minCharNumber: Approve copyright information by copying at least how many characters.
+copyright:
+  enable: true
+  minCharNumber: 120
+  description: 本文章著作权归作者所有，任何形式的转载都请注明出处。
+
+# Whether to activate the mathjax, this is a global configuration, but the post still does not open the mathjax rendering.
+# Considering that the mathjax loading is time consuming,
+# you also need to add `mathjax: true` to the Front-matter of the post that needs to be rendered.
+mathjax:
+  enable: true
+  cdn: https://cdn.bootcss.com/mathjax/2.7.5/MathJax.js?config=TeX-AMS-MML_HTMLorMML
+
+# Post word count, reading duration, site total word count.
+# Before you activate, please confirm that you have installed the hexo-wordcount plugin,
+# install the plugin command: `npm i --save hexo-wordcount`.
+postInfo:
+  date: true
+  update: true
+  wordCount: true
+  totalCount: true
+  min2read: true
+  readCount: true
+
+# Whether to activate the 'love' effect of clicking on the page.
+clicklove:
+  enable: false
+
+# profile in about page, including avatars, career, and personal introductions.
+profile: 
+  avatar: /favicon.png
+  career: Bioinformatics Research
+  introduction: BioSciTools
+
+# config my projects informations in about page.
+# If you don't want to display this `My Projects` content, you can deactivate or delete this configuration.
+# myProjects:
+#   enable: true
+#   data:
+#     hexo-theme-matery:
+#       icon: fas fa-file-alt
+#       iconBackground: 'linear-gradient(to bottom right, #66BB6A 0%, #81C784 100%)'
+#       url: http://github.com/blinkfox/hexo-theme-matery
+#       desc: This is a Hexo blog theme with 'Material Design' and responsive design.
+
+# config my skills informations in about page.
+# If you don't want to display this `My Skills` content, you can deactivate or delete this configuration.
+# mySkills:
+#   enable: true
+#   data:
+#     Python:
+#       background: 'linear-gradient(to right, #FFEB3B 0%, #FFF176 100%)'
+#       percent: 80%
+#     R Language:
+#       background: 'linear-gradient(to right, #4CAF50 0%, #81C784 100%)'
+#       percent: 90%
+#     Java:
+#       background: 'linear-gradient(to right, #FF0066 0%, #FF00CC 100%)'
+#       percent: 85%
+#     VUE.js:
+#       background: 'linear-gradient(to right, #9900FF 0%, #CC66FF 100%)'
+#       percent: 80%
+
+# config gallery of my photos in about page.
+# If you don't want to display this `Gallery` content, you can deactivate or delete this configuration.
+myGallery:
+  enable: true
+  data:
+    - /medias/featureimages/0.jpg
+    - /medias/featureimages/1.jpg
+    - /medias/featureimages/2.jpg
+
+# Whether to display post-calender in the `archive` page
+postCalendar: true
+
+# the Gitalk config，default disabled
+# gitalk:
+#   enable: true
+#   owner: benben-miao
+#   repo: https://github.com/OmicsSphereMed/Feedback
+#   oauth: 
+#     clientId: fce3b353b1e38d678e6a
+#     clientSecret: bd2846e4e3398420d764242196f59a09d46fe6f1
+#   admin: benben-miao
+
+# the Gitment config，default disabled
+gitment:
+  enable: false
+  owner:
+  repo:
+  oauth:
+    clientId:
+    clientSecret:
+
+# disqus config, default disabled
+disqus:
+  enable: false
+  shortname:
+
+# Livere comment configuration, the default is not activated
+livere:
+  enable: false
+  uid:
+
+# The configuration of the Valine comment module is not activated by default.
+# To use it, activate the configuration item and set appId and appKey.
+valine:
+  enable: false
+  appId:
+  appKey:
+  notify: false
+  verify: false
+  visitor: true
+  avatar: 'mm'
+  pageSize: 10
+  placeholder: 'just go go'
+  background: /medias/comment_bg.png
+  coolpushkey: 
+
+# The configuration of the MiniValine comment module is not activated by default.
+# To use it, activate the configuration item.
+minivaline:
+  enable: false
+  serverURL: https://minivaline.your-domain.top
+
+changyan:
+  enable: false
+  appId:
+  conf:
+# Whether to display fork me on github icon and link, default true, You can change it to your repo address
+githubLink:
+  enable: true
+  url: https://github.com/BioSciTools/BioSciTools.github.io
+  title: Fork Me
+
+# The configuration of the Twikoo comment module is not activated by default.
+# To use it, activate the configuration item and set envId.
+twikoo:
+  enable: false
+  envId: twikoo-1gs9l0fb17e7897a
+
+# The password verification feature of read post. To use this feature,
+# activate the configuration item and write the 'password' key and Cipher in the post's Front-matter.
+# Note: In order to ensure that the original password will not be leaked to the web page,
+# the password of the article must be encrypted by 'SHA256' so that it will not be cracked.
+# 阅读文章的密码验证功能，如要使用此功能请激活该配置项，并在对应文章的Front-matter中写上'password'的键和加密后的密文即可.
+# 请注意：为了保证密码原文不会被泄露到网页中，文章的密码必须是通过'SHA256'加密的，这样就不会被破解.
+verifyPassword:
+  enable: false
+  promptMessage: Input Passwords
+  errorMessage: Error Home
+
+# busuanzi(http://busuanzi.ibruce.info/) website statistics
+busuanziStatistics:
+  enable: true
+  totalTraffic: true
+  totalNumberOfvisitors: true
+
+# Add google analytics configuration
+googleAnalytics:
+  enable: false
+  id:
+
+# Add baidu analytics configuration
+baiduAnalytics:
+  enable: false
+  id:
+
+baiduPush: true
+
+# The used front-end library can be replaced with the corresponding CDN address as needed,
+# If the specific version is not specified below, you can use the latest version.
+libs:
+  css:
+    matery: /css/matery.css
+    mycss: /css/my.css
+    fontAwesome: /libs/awesome/css/all.css # V5.11.1
+    materialize: /libs/materialize/materialize.min.css # 1.0.0
+    aos: /libs/aos/aos.css
+    animate: /libs/animate/animate.min.css # V3.5.1
+    lightgallery: /libs/lightGallery/css/lightgallery.min.css # V1.6.11
+    aplayer: /libs/aplayer/APlayer.min.css
+    dplayer: /libs/dplayer/DPlayer.min.css
+    gitalk: /libs/gitalk/gitalk.css
+    jqcloud: /libs/jqcloud/jqcloud.css
+    tocbot: /libs/tocbot/tocbot.css
+    prism: /libs/prism/prism.css
+  js:
+    matery: /js/matery.js
+    jquery: /libs/jquery/jquery.min.js
+    materialize: /libs/materialize/materialize.min.js # 1.0.0
+    masonry: /libs/masonry/masonry.pkgd.min.js # v4.0.0
+    aos: /libs/aos/aos.js
+    scrollProgress: /libs/scrollprogress/scrollProgress.min.js
+    lightgallery: /libs/lightGallery/js/lightgallery-all.min.js # V1.6.11
+    clicklove: /libs/others/clicklove.js
+    busuanzi: /libs/others/busuanzi.pure.mini.js
+    aplayer: /libs/aplayer/APlayer.min.js
+    dplayer: /libs/dplayer/DPlayer.min.js
+    crypto: /libs/cryptojs/crypto-js.min.js
+    echarts: /libs/echarts/echarts.min.js
+    gitalk: /libs/gitalk/gitalk.min.js
+    valine: /libs/valine/Valine.min.js # 若想保持最新版，请替换为 https://unpkg.com/valine/dist/Valine.min.js  默认为 /libs/valine/Valine.min.js
+    minivaline: /libs/minivaline/MiniValine.js # latest
+    twikoo: /libs/twikoo/twikoo.all.min.js # 若想保持最新版，请替换为 https://cdn.jsdelivr.net/npm/twikoo/dist/twikoo.all.min.js  默认为 /libs/twikoo/twikoo.all.min.js
+    jqcloud: /libs/jqcloud/jqcloud-1.0.4.min.js
+    tocbot: /libs/tocbot/tocbot.min.js
+    canvas_nest: /libs/background/canvas-nest.js
+    ribbon: /libs/background/ribbon.min.js
+    ribbonRefresh: /libs/background/ribbon-refresh.min.js
+    ribbon_dynamic: /libs/background/ribbon-dynamic.js
+    instantpage: /libs/instantpage/instantpage.js
+
+# The post featured images that needs to be displayed when there is no image.
+# 无文章特色图片时需要显示的文章特色图片.
+featureImages:
+- /medias/featureimages/0.jpg
+- /medias/featureimages/1.jpg
+- /medias/featureimages/2.jpg
+
+# default configs that the default policy for every articles/posts
+# you can define reprint policy for a single article in the front-matter of the specific md file using this key: reprintPolicy
+reprint:
+  enable: true # whether enable reprint section
+  default: cc_by
+
+# DaoVoice online contact
+daovoice:
+  enable: false
+  app_id:
+
+# Tidio online contact
+tidio:
+  enable: false
+  public_key:
+
+tuxiaochao:
+  enable: false
+  productId:
+
+canvas_nest:
+  enable: false
+  color: 0,0,255
+  pointColor: 0,0,255
+  opacity: 0.7
+  zIndex: -1
+  count: 99
+
+ribbon:
+  enable: false
+  size: 150
+  alpha: 0.6
+  zIndex: -1
+  clickChange: false
+
+ribbon_dynamic:
+  enable: false
+
+sharejs:
+  enable: false
+  sites: twitter,facebook,google,wechat,weibo,linkedin
+
+addthis:
+  enable: false
+  pubid:
+
+subtitle:
+  enable: true
+  loop: true
+  showCursor: true
+  startDelay: 300
+  typeSpeed: 100
+  backSpeed: 50
+  sub:
+    - BioSciTools - Bioinformatics Science Tools.
+
+navMenu:
+  mleft: false
+  bgColor: " "
+
+instantpage:
+  enable: true
+
+banner:
+  enable: false
+
+icp:
+  enable: false
+  url:
+  text:
+
+jsDelivr:
+  url: # https://cdn.jsdelivr.net/gh/skyls03/skyls03.github.io
+
+background:
+  enable: false
+  url: ""
+
+artitalk:
+  enable: false
+  appId: # xxxxx
+  appKey: # xxxxxx
+
+bbtime:
+ enable: false
+ appId: # 你的appId
+ appKey: # 你的appKey
+ serverURLs: # https://你的api
