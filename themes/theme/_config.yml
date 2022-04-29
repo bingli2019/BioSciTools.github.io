@@ -289,9 +289,9 @@ verifyPassword:
 
 # busuanzi(http://busuanzi.ibruce.info/) website statistics
 busuanziStatistics:
-  enable: true
-  totalTraffic: true
-  totalNumberOfvisitors: true
+  enable: false
+  totalTraffic: false
+  totalNumberOfvisitors: false
 
 # Add google analytics configuration
 googleAnalytics:

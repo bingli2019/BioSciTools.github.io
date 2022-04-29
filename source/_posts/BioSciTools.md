@@ -11,7 +11,7 @@ coverImg: https://benben-miao.gitee.io/image-cloud/BioSciTools/tool_RevCom.png
 password: password
 toc: true
 mathjax: true
-summary: OmicsSphereMed Project
+summary: BioSciTools Project
 categories: Post
 tags:
   - BioSciTools

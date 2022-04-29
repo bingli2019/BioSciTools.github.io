@@ -38,3 +38,12 @@
   border-radius: 10px;
   box-shadow: 0px 0px 10px #cccccc;
 }
+
+nav ul a {
+  color: #333333 !important;
+  font-weight: bold;
+}
+
+.dream .text {
+  text-align: justify !important;
+}

@@ -13,15 +13,15 @@
                 <span id="year"><%- theme.time.year %></span>
             <% } %>
             <!-- <span id="year"><%- theme.time.year %></span> -->
-            <span id="year">2021</span>
+            <!-- <span id="year">2021</span> -->
             <a href="<%- url_for('/about') %>" target="_blank"><%- config.author %></a>
-            |&nbsp;Powered by&nbsp;<a href="https://hexo.io/" target="_blank">Hexo</a>
-            |&nbsp;Theme&nbsp;<a href="https://github.com/blinkfox/hexo-theme-matery" target="_blank">Matery</a>
+            <!-- |&nbsp;Powered by&nbsp;<a href="https://hexo.io/" target="_blank">Hexo</a>
+            |&nbsp;Theme&nbsp;<a href="https://github.com/blinkfox/hexo-theme-matery" target="_blank">Matery</a> -->
             <br>
-            <% if (theme.postInfo.totalCount) { %>
+            <!-- <% if (theme.postInfo.totalCount) { %>
                 &nbsp;<i class="fas fa-chart-area"></i>&nbsp;<%- __('siteTotalWords') %>:&nbsp;<span
                         class="white-color"><%= totalcount(site) %></span>
-            <% } %>
+            <% } %> -->
             <% let socialClass = '' %>
             <% if (theme.busuanziStatistics && theme.busuanziStatistics.enable) { %>
                 <% socialClass = 'social-statis' %>
@@ -41,7 +41,7 @@
             <br>
 
             <!-- 运行天数提醒. -->
-            <% if (theme.time.enable) { %>
+            <!-- <% if (theme.time.enable) { %>
                 <span id="sitetime"> Loading ...</span>
                 <script>
                     var calcSiteTime = function () {
@@ -95,7 +95,7 @@
 
                     calcSiteTime();
                 </script>
-            <% } %>
+            <% } %> -->
             <br>
             <% if (theme.icp.enable) { %>
                 <span id="icp"><img src="<%- theme.jsDelivr.url %><%- url_for('/medias/icp.png') %>"
