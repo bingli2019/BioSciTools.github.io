@@ -4,6 +4,33 @@
   
     
     <entry>
+      <title>BioSciTools new app PCAPlot</title>
+      <link href="/2022/04/28/pcaplot/"/>
+      <url>/2022/04/28/pcaplot/</url>
+      
+        <content type="html"><![CDATA[<p>#&gt; [TOC]</p><h2 id="1-BioSciTools-Update"><a href="#1-BioSciTools-Update" class="headerlink" title="1. BioSciTools Update"></a>1. BioSciTools Update</h2><blockquote><p><strong>BioSciTools: Version 1.0.1</strong><br><strong>Date: 2022-04-30</strong><br><br>首先祝大家五一假期快乐呀！BioSciTools新的更新给大家带来新的程序 <strong>PCAPlot</strong> <code>(Principal Component Analysis and Plot)</code>，同时添加新的功能和修复多处Bug。<a href="https://github.com/BioSciTools/BioSciTools.github.io/releases">https://github.com/BioSciTools/BioSciTools.github.io/releases</a><br><br><strong>New Apps:</strong> 1.1 <strong>PCAPlot</strong> <code>(Principal Component Analysis and Plot)</code><br><br><strong>Bug Fixed:</strong> 2.1 Add the Slider group for the first time.<br>2.2 Improve the introduction of BioSciTools homepage.<br>2.3 Add the version update description log at home right sider.<br>2.4 Add the Clear button to reset the data.</p></blockquote><h2 id="2-New-App-PCAPlot"><a href="#2-New-App-PCAPlot" class="headerlink" title="2. New App PCAPlot"></a>2. New App PCAPlot</h2><blockquote><p>Based on the gene expression data standardized by rpkm / fpkm in transcriptome and other omics, principal component analysis (PCA) and visual scientific mapping are carried out for all samples. When the number of samples is sufficient, the circle map of 95% CI (P-value &lt; 0.05)can be displayed.<br><br>基于转录组等组学中经RPKM/FPKM标准化的基因表达数据，对所有样本进行主成分分析（PCA）并可视化科学绘图，当样本数量足够时可以展示95%CI(P-value &lt; 0.05)的圈图。</p></blockquote><p><img src="https://benben-miao.gitee.io/image-cloud/BioSciTools/ToolPCAPlotData.png" alt="BioSciTools PCAPlot Data"></p><p><img src="https://benben-miao.gitee.io/image-cloud/BioSciTools/ToolPCAPlot.png" alt="BioSciTools PCAPlot Options and Plot"></p><h2 id="3-Home-page-update"><a href="#3-Home-page-update" class="headerlink" title="3. Home page update"></a>3. Home page update</h2><blockquote><p>BioSciTools首页添加版本更新日志板块，方便大家查看我在开发中正在努力解决的问题和实现的功能。</p></blockquote><p><img src="https://benben-miao.gitee.io/image-cloud/BioSciTools/BioSciTools-Home-PCAPlot.png" alt="BioSciTools PCAPlot Options and Plot"></p><h2 id="4-BioSciTools-Author-page"><a href="#4-BioSciTools-Author-page" class="headerlink" title="4. BioSciTools Author page"></a>4. BioSciTools Author page</h2><blockquote><p>BioSciTools首页初步完善后，作者简介页面也得到更新，初步撰写了开发者主要信息，期望与大家相互学习与交流。</p></blockquote><p><img src="https://benben-miao.gitee.io/image-cloud/BioSciTools/BioSciTools-Author.png" alt="BioSciTools PCAPlot Options and Plot"></p>]]></content>
+      
+      
+      <categories>
+          
+          <category> Post </category>
+          
+      </categories>
+      
+      
+        <tags>
+            
+            <tag> BioSciTools </tag>
+            
+            <tag> Project </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
       <title>BioSciTools</title>
       <link href="/2022/04/28/bioscitools/"/>
       <url>/2022/04/28/bioscitools/</url>

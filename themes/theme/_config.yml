@@ -15,6 +15,9 @@ menu:
       - name: Archives
         url: /archives
         icon: fas fa-archive
+  Download: 
+    url: /download
+    icon: fas fa-download
   About:
     url: /about
     icon: fas fa-user-circle
