@@ -286,7 +286,7 @@ nav i, nav [class^="mdi-"], nav [class*="mdi-"], nav i.material-icons {
 }
 
 header .nav-transparent {
-    background-color: #ffffff;
+    background-color: #ffcd9e;
     background-image: none;
     box-shadow: 0px 3px 10px #cdcdcd;
 }
