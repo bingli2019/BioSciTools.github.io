@@ -12,14 +12,26 @@
   <br />
 
   <div style="border-radius: 10px; background: #efefef; box-shadow:  20px 20px 60px #cdcdcd, -20px -20px 60px #ffffff; padding: 20px; line-height: 20px;">
-    <h3>BioSciTools-v1.0.2</h3>
+    <h3>BioSciTools-v1.0.3</h3>
     <b>Github:</b> <br />
     <a href="https://github.com/BioSciTools/BioSciTools.github.io" style="color: #008000">https://github.com/BioSciTools/BioSciTools.github.io</a> <br />
     <b>Website:</b> <a href="https://bioscitools.github.io" style="color: #008000">https://bioscitools.github.io</a> <br />
-    <b>Download:</b> <a href="https://hub.fastgit.xyz/BioSciTools/BioSciTools.github.io/releases/download/v1.0.2/BioSciTools-v1.0.2.exe" style="color: #008000">BioSciTools-v1.0.2 windows-x32-x64</a> <br />
+    <b>Download:</b> <a href="https://hub.fastgit.xyz/BioSciTools/BioSciTools.github.io/releases/download/v1.0.3/BioSciTools-v1.0.3.exe" style="color: #008000">BioSciTools-v1.0.3 windows-x32-x64</a> <br />
     <hr />
     <b>Author: Benben Miao</b> <br />
     <b>Email:</b> benben.miao@outlook.com <br />
+  </div>
+  <hr />
+
+  <div style="border-radius: 10px; background: #efefef; box-shadow:  20px 20px 60px #cdcdcd, -20px -20px 60px #ffffff; padding: 20px; line-height: 20px; font-family: 'SimHei'; font-size: 14px; text-align: justify;">
+    <h3>BioSciTools: Version 1.0.3</h3>
+    <b>Date: 2022-05-03</b> <br />
+    <b>Update:</b> <a href="https://mp.weixin.qq.com/s/QNLV8dLrXz1kRDeiaLqc9w" style="color: #008000">BioSciTools: Version 1.0.2</a> <br />
+    <p><b>New Apps:</b> 1.0 TSNEPlot (TSNE analysis and Plot) (新增 TSNE Plot App!)</p>
+    <p><b>New Apps:</b> 1.1 VolcanoPlot (Volcano and Plot) (新增 Volcano Plot App!)</p>
+    <p><b>New Features:</b> 2.0 Add BioSciTools clock and dynamic painting in the right drawer of the Home page. (Home 页面右抽屉添加BioSciTools时钟和动态花绘。)</p>
+    <p><b>New Features:</b> 2.1 At the bottom of the program, add an access window related to BioSciTools, and you need to connect to the network. (程序页面底部添加BioSciTools相关的访问窗口，需要连接网络访问。)</p>
+    <p><b>Bug Fixed:</b> 3.0 None.</p>
   </div>
   <hr />
 
