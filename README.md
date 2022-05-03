@@ -10,7 +10,7 @@
 
 **BioSciTools Release Website:** **_https://bioscitools.github.io_**
 
-**BioSciTools-v1.0.3 Download:** **_https://hub.fastgit.xyz/BioSciTools/BioSciTools.github.io/releases/download/v1.0.3/BioSciTools-v1.0.3.exe_**
+**BioSciTools-v1.0.4 Download:** **_https://hub.fastgit.xyz/BioSciTools/BioSciTools.github.io/releases/download/v1.0.4/BioSciTools-v1.0.4.exe_**
 
 ### 3. BioSciTools Usage
 Download new version from **BioSciTools Release Website** or **BioSciTools Release Repository:**.

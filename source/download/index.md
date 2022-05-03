@@ -16,7 +16,7 @@
     <b>Github:</b> <br />
     <a href="https://github.com/BioSciTools/BioSciTools.github.io" style="color: #008000">https://github.com/BioSciTools/BioSciTools.github.io</a> <br />
     <b>Website:</b> <a href="https://bioscitools.github.io" style="color: #008000">https://bioscitools.github.io</a> <br />
-    <b>Download:</b> <a href="https://hub.fastgit.xyz/BioSciTools/BioSciTools.github.io/releases/download/v1.0.3/BioSciTools-v1.0.3.exe" style="color: #008000">BioSciTools-v1.0.3 windows-x32-x64</a> <br />
+    <b>Download:</b> <a href="https://hub.fastgit.xyz/BioSciTools/BioSciTools.github.io/releases/download/v1.0.4/BioSciTools-v1.0.4.exe" style="color: #008000">BioSciTools-v1.0.4 windows-x32-x64</a> <br />
     <hr />
     <b>Author: Benben Miao</b> <br />
     <b>Email:</b> benben.miao@outlook.com <br />
@@ -24,9 +24,20 @@
   <hr />
 
   <div style="border-radius: 10px; background: #efefef; box-shadow:  20px 20px 60px #cdcdcd, -20px -20px 60px #ffffff; padding: 20px; line-height: 20px; font-family: 'SimHei'; font-size: 14px; text-align: justify;">
+    <h3>BioSciTools: Version 1.0.4</h3>
+    <b>Date: 2022-05-03</b> <br />
+    <b>Update:</b> <a href="https://mp.weixin.qq.com/s/f0SF7EtGwKy47y6JDaP0JQ" style="color: #008000">BioSciTools: Version 1.0.2</a> <br />
+    <p><b>New Apps:</b> 1.0 NetworkPlot (Regulatory Network Plot) (新增 Network Plot App!)</p>
+    <p><b>New Apps:</b> 1.1 CommunityPlot (Regulatory Network Plot) (新增 Community Plot App!)</p>
+    <p><b>New Features:</b> 2.0 The regulatory network plays a significant advantage in exploring the analysis of complex biological regulatory relationships. Based on the regulatory pairing data between two types of nodes (it is suggested that the regulatory relationship pairs meet the significance), this program constructs the regulatory relationship network by calculating the connectivity or simply counting the number of nodes, and visualizes it. Is suitable for that regulation relationship of protein-protein, gene-gene, microRNA-mrna, TF-gene, microRNA-circrna, microRNA-lncrna and other molecular pair. (调控网络在探索生物学复杂的调控关系分析中发挥着显著的优势，本程序基于两类节点间的调控配对数据（建议是符合显著性的调控关系对）通过计算连接度或单纯计算节点数进行构建调控关系网络并可视化。适用于Protein - Protein, Gene - Gene, MicroRNA - mRNA, TF - Gene, MicroRNA - CircRNA, MicroRNA - LncRNA等分子对调控关系。)</p>
+    <p><b>Bug Fixed:</b> 3.0 Fixed options icon from dynamic to static.</p>
+  </div>
+  <hr />
+
+  <div style="border-radius: 10px; background: #efefef; box-shadow:  20px 20px 60px #cdcdcd, -20px -20px 60px #ffffff; padding: 20px; line-height: 20px; font-family: 'SimHei'; font-size: 14px; text-align: justify;">
     <h3>BioSciTools: Version 1.0.3</h3>
     <b>Date: 2022-05-03</b> <br />
-    <b>Update:</b> <a href="https://mp.weixin.qq.com/s/QNLV8dLrXz1kRDeiaLqc9w" style="color: #008000">BioSciTools: Version 1.0.2</a> <br />
+    <b>Update:</b> <a href="https://mp.weixin.qq.com/s/f0SF7EtGwKy47y6JDaP0JQ" style="color: #008000">BioSciTools: Version 1.0.2</a> <br />
     <p><b>New Apps:</b> 1.0 TSNEPlot (TSNE analysis and Plot) (新增 TSNE Plot App!)</p>
     <p><b>New Apps:</b> 1.1 VolcanoPlot (Volcano and Plot) (新增 Volcano Plot App!)</p>
     <p><b>New Features:</b> 2.0 Add BioSciTools clock and dynamic painting in the right drawer of the Home page. (Home 页面右抽屉添加BioSciTools时钟和动态花绘。)</p>
