@@ -1,7 +1,7 @@
 ---
 layout: post
 title: BioSciTools new app PCAPlot
-date: 2022-04-28
+date: 2022-04-30
 author: benben-miao
 img: https://benben-miao.gitee.io/image-cloud/BioSciTools/ToolPCAPlot.png
 top: true
@@ -15,7 +15,7 @@ summary: BioSciTools Project
 categories: Post
 tags:
   - BioSciTools
-  - Project
+  - Apps
 ---
 
 #> [TOC]
