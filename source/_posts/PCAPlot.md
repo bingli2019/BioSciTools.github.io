@@ -4,7 +4,7 @@ title: BioSciTools new app PCAPlot
 date: 2022-04-30
 author: benben-miao
 img: https://benben-miao.gitee.io/image-cloud/BioSciTools/ToolPCAPlot.png
-top: true
+top: false
 hide: false
 cover: true
 coverImg: https://benben-miao.gitee.io/image-cloud/BioSciTools/ToolPCAPlot.png

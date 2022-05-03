@@ -4,6 +4,114 @@
   
     
     <entry>
+      <title>BioSciTools app NetworkPlot</title>
+      <link href="/2022/05/03/networkplot/"/>
+      <url>/2022/05/03/networkplot/</url>
+      
+        <content type="html"><![CDATA[<h2 id="1-BioSciTools-App-NetworkPlot"><a href="#1-BioSciTools-App-NetworkPlot" class="headerlink" title="1. BioSciTools App NetworkPlot"></a>1. BioSciTools App NetworkPlot</h2><blockquote><p><strong>App Name:</strong> <strong>NetworkPlot</strong><br><strong>Date:</strong> 2022-05-03</p></blockquote><blockquote><p><strong>App Description:</strong><br>The regulatory network plays a significant advantage in exploring the analysis of complex biological regulatory relationships. Based on the regulatory pairing data between two types of nodes (it is suggested that the regulatory relationship pairs meet the significance), this program constructs the regulatory relationship network by calculating the connectivity or simply counting the number of nodes, and visualizes it. Is suitable for that regulation relationship of protein-protein, gene-gene, microRNA-mrna, TF-gene, microRNA-circrna, microRNA-lncrna and other molecular pair.<br>调控网络在探索生物学复杂的调控关系分析中发挥着显著的优势，本程序基于两类节点间的调控配对数据（建议是符合显著性的调控关系对）通过计算连接度或单纯计算节点数进行构建调控关系网络并可视化。适用于Protein - Protein, Gene - Gene, MicroRNA - mRNA, TF - Gene, MicroRNA - CircRNA, MicroRNA - LncRNA等分子对调控关系。</p></blockquote><blockquote><p><strong>Quality features:</strong><br>1.support Demo data set test and preview;<br>2.Support mainstream fonts such as Times New Romas;<br>3.Support downloading of image results in PDF format of vector diagram and JPEG format of bitmap;<br>4.Support 12 SCI (AAAS, JAMA, GSEA, IGV, UCSC, etc.) color matching or custom color by colorpicker components;<br>5.It supports the visualization of the regulatory relationship of protein-protein, gene-gene, MicroRNA-mRNA, TF-gene, MicroRNA-CircrRNA, MicroRNA-LNC RNA and other molecular pairs;<br>6.Support directed regulation network and undirected regulation network.<br><br>1.支持Demo数据集测试与预览;<br>2.支持Times New Romas 等主流字体;<br>3.支持矢量图PDF格式和位图JPEG格式图像结果下载;<br>4.支持12种SCI (AAAS, JAMA, GSEA, IGV, UCSC, etc.)颜色搭配或自定义拾取颜色;<br>5.支持Protein - Protein, Gene - Gene, MicroRNA - mRNA, TF - Gene, MicroRNA - CircRNA, MicroRNA - LncRNA等分子对调控关系可视化;<br>6.支持有向调控网络和无向调控网络.</p></blockquote><p><img src="https://benben-miao.gitee.io/image-cloud/BioSciTools/ToolNetworkPlot.png" alt="BioSciTools NetworkPlot"></p>]]></content>
+      
+      
+      <categories>
+          
+          <category> Post </category>
+          
+      </categories>
+      
+      
+        <tags>
+            
+            <tag> BioSciTools </tag>
+            
+            <tag> Apps </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title>BioSciTools app VolcanoPlot</title>
+      <link href="/2022/05/03/volcanoplot/"/>
+      <url>/2022/05/03/volcanoplot/</url>
+      
+        <content type="html"><![CDATA[<h2 id="1-BioSciTools-App-VolcanoPlot"><a href="#1-BioSciTools-App-VolcanoPlot" class="headerlink" title="1. BioSciTools App VolcanoPlot"></a>1. BioSciTools App VolcanoPlot</h2><blockquote><p><strong>App Name:</strong> <strong>VolcanoPlot</strong><br><strong>Date:</strong> 2022-05-02</p></blockquote><blockquote><p><strong>App Description:</strong><br>Visualize Volcano volcano map based on the calculation results of differentially expressed genes (including differentially expressed genes/transcript names, log2FoldChange, P-value, P-adjust/Q-value). It is suitable for transcriptomics, metabonomics, protein omics and other omics data.<br>基于差异表达基因计算结果(包含差异表达基因/转录本名称, log2FoldChange, P-value, P-adjust / Q-value)进行可视化绘制Volcano火山图。适用于转录组学、代谢组学、蛋白质组学等组学数据。</p></blockquote><blockquote><p><strong>Quality features:</strong><br>1.support Demo data set test and preview;<br>2.Support mainstream fonts such as Times New Romas;<br>3.Support downloading of image results in PDF format of vector diagram and JPEG format of bitmap;<br>4.Support custom color and transparency of each part;<br>5.Support adding background and arrow indication to labels;<br>6.Support to modify statistical parameters.<br><br>1.支持Demo数据集测试与预览;<br>2.支持Times New Romas 等主流字体;<br>3.支持矢量图PDF格式和位图JPEG格式图像结果下载;<br>4.支持自定义各部分颜色及透明度;<br>5.支持给标签添加背景及箭头指示;<br>6.支持修改统计学参数.</p></blockquote><p><img src="https://benben-miao.gitee.io/image-cloud/BioSciTools/ToolVolcanoPlot.png" alt="BioSciTools VolcanoPlot"></p>]]></content>
+      
+      
+      <categories>
+          
+          <category> Post </category>
+          
+      </categories>
+      
+      
+        <tags>
+            
+            <tag> BioSciTools </tag>
+            
+            <tag> Apps </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title>BioSciTools app VennPlot</title>
+      <link href="/2022/05/02/vennplot/"/>
+      <url>/2022/05/02/vennplot/</url>
+      
+        <content type="html"><![CDATA[<h2 id="1-BioSciTools-App-VennPlot"><a href="#1-BioSciTools-App-VennPlot" class="headerlink" title="1. BioSciTools App VennPlot"></a>1. BioSciTools App VennPlot</h2><blockquote><p><strong>App Name:</strong> <strong>VennPlot</strong><br><strong>Date:</strong> 2022-05-02</p></blockquote><blockquote><p><strong>App Description:</strong><br>By counting the intersection of genes or differentially expressed genes among groups, the common set and unique set are obtained, and the data images of publishing level are obtained by visual scientific drawing.<br>通过统计多组间基因或差异表达基因的交集，获得共有集和特有集并进行可视化科学绘图获得出版水平的数据图像。</p></blockquote><blockquote><p><strong>Quality features:</strong><br>1.support Demo data set test and preview;<br>2.Support mainstream fonts such as Times New Romas;<br>3.Support downloading of image results in PDF format of vector diagram and JPEG format of bitmap;<br>4.Support 12 SCI (AAAS, JAMA, GSEA, IGV, UCSC, etc.) color matching;<br>5.Support to display 1-7 groups of data visual drawing.<br><br>1.支持Demo数据集测试与预览;<br>2.支持Times New Romas 等主流字体;<br>3.支持矢量图PDF格式和位图JPEG格式图像结果下载;<br>4.分组以不同颜色标记;<br>5.支持12种SCI (AAAS, JAMA, GSEA, IGV, UCSC, etc.)颜色搭配;<br>6.支持展示1~7组数据可视化绘图.<br>-<br><img src="https://benben-miao.gitee.io/image-cloud/BioSciTools/ToolVennPlot.png" alt="BioSciTools VennPlot"></p></blockquote>]]></content>
+      
+      
+      <categories>
+          
+          <category> Post </category>
+          
+      </categories>
+      
+      
+        <tags>
+            
+            <tag> BioSciTools </tag>
+            
+            <tag> Apps </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title>BioSciTools app TSNEPlot</title>
+      <link href="/2022/05/01/tsneplot/"/>
+      <url>/2022/05/01/tsneplot/</url>
+      
+        <content type="html"><![CDATA[<h2 id="1-BioSciTools-App-TSNEPlot"><a href="#1-BioSciTools-App-TSNEPlot" class="headerlink" title="1. BioSciTools App TSNEPlot"></a>1. BioSciTools App TSNEPlot</h2><blockquote><p><strong>App Name:</strong> <strong>TSNEPlot</strong><br><strong>Date:</strong> 2022-05-01</p></blockquote><blockquote><p><strong>App Description:</strong><br>T-SNE transforms the similarity between data points into conditional probability. The similarity of data points in original space is represented by Gaussian joint distribution, and the similarity of data points in embedded space is represented by student T distribution. This program is suitable for dimensionality reduction of high-dimensional data in statistics. The color of data is marked by the last column grouping, the distance of scattered points is marked by 95% CI, and the labels of scattered points are marked by the names of observation records. Therefore, the first column and the last column are strings, and the eigenvalues between them are numerical.<br>t-SNE将数据点之间的相似度转化为条件概率，原始空间中数据点的相似度由高斯联合分布表示，嵌入空间中数据点的相似度由学生t分布 表示。本程序适用于统计学中对高维数据进行降维，以末列分组标记数据颜色，以95% CI标记散点的距离，以观察记录的名称标记散点的标签。因此首列和末列为字符串，之间的特征值为数值型。</p></blockquote><blockquote><p><strong>Quality features:</strong><br>1.support Demo data set test and preview;<br>2.Support mainstream fonts such as Times New Romas;<br>3.Support downloading of image results in PDF format of vector diagram and JPEG format of bitmap;<br>4.Grouping is marked with different colors;<br>5.The distance of scattered points marked with 95% confidence (CI) is outlined by ellipse;<br>6.The name of the observation record is used as a label to mark scattered points.<br><br>1.支持Demo数据集测试与预览;<br>2.支持Times New Romas 等主流字体;<br>3.支持矢量图PDF格式和位图JPEG格式图像结果下载;<br>4.分组以不同颜色标记;<br>5.以95% 置信度(CI)标记散点的距离以椭圆勾勒;<br>6.观察记录的名称作为标记散点的标签.</p></blockquote><p><img src="https://benben-miao.gitee.io/image-cloud/BioSciTools/ToolTSNEPlot.png" alt="BioSciTools TSNEPlot"></p>]]></content>
+      
+      
+      <categories>
+          
+          <category> Post </category>
+          
+      </categories>
+      
+      
+        <tags>
+            
+            <tag> BioSciTools </tag>
+            
+            <tag> Apps </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
       <title>BioSciTools new app PCAPlot</title>
       <link href="/2022/04/30/pcaplot/"/>
       <url>/2022/04/30/pcaplot/</url>
@@ -101,9 +209,9 @@
       
         <tags>
             
-            <tag> BioSciTools </tag>
-            
             <tag> BioNav </tag>
+            
+            <tag> BioSciTools </tag>
             
         </tags>
       
