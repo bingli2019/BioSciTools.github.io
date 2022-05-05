@@ -12,15 +12,25 @@
   <br />
 
   <div style="border-radius: 10px; background: #efefef; box-shadow:  20px 20px 60px #cdcdcd, -20px -20px 60px #ffffff; padding: 20px; line-height: 20px;">
-    <h3>BioSciTools-v1.0.4</h3>
+    <h3>BioSciTools-v1.0.5</h3>
     <b>Github:</b> <br />
     <a href="https://github.com/BioSciTools/BioSciTools.github.io" style="color: #008000">https://github.com/BioSciTools/BioSciTools.github.io</a> <br />
     <b>Website:</b> <a href="https://bioscitools.github.io" style="color: #008000">https://bioscitools.github.io</a> <br />
-    <b>Download1 (AliyunDrive):</b> <a href="https://www.aliyundrive.com/s/Euk8rQpyByd" style="color: #008000">BioSciTools-v1.0.4 windows-x32-x64</a> <br />
-    <b>Download2 (Github):</b> <a href="https://hub.fastgit.xyz/BioSciTools/BioSciTools.github.io/releases/download/v1.0.4/BioSciTools-v1.0.4.exe" style="color: #008000">BioSciTools-v1.0.4 windows-x32-x64</a> <br />
+    <!-- <b>Download1 (AliyunDrive):</b> <a href="https://www.aliyundrive.com/s/Euk8rQpyByd" style="color: #008000">BioSciTools-v1.0.5 windows-x32-x64</a> <br /> -->
+    <b>Download2 (Github):</b> <a href="https://hub.fastgit.xyz/BioSciTools/BioSciTools.github.io/releases/download/v1.0.5/BioSciTools-v1.0.5.exe" style="color: #008000">BioSciTools-v1.0.5 windows-x32-x64</a> <br />
     <hr />
     <b>Author: Benben Miao</b> <br />
     <b>Email:</b> benben.miao@outlook.com <br />
+  </div>
+  <hr />
+
+  <div style="border-radius: 10px; background: #efefef; box-shadow:  20px 20px 60px #cdcdcd, -20px -20px 60px #ffffff; padding: 20px; line-height: 20px; font-family: 'SimHei'; font-size: 14px; text-align: justify;">
+    <h3>BioSciTools: Version 1.0.5</h3>
+    <b>Date: 2022-05-06</b> <br />
+    <b>Update:</b> <a href="https://mp.weixin.qq.com/s/5AUKxQCConxOJHcn2PmNpw" style="color: #008000">BioSciTools: Version 1.0.5</a> <br />
+    <p><b>New Apps:</b> 1.0 SinCosTan (三角函数表达式与可视化)</p>
+    <p><b>New Apps:</b> 1.1 FourierFormula (傅里叶级数与变换可视化)</p>
+    <p><b>Bug Fixed:</b> 3.0 Fixed option of Clear button (修复 Clear 按钮的操作逻辑,避免数据交叉).</p>
   </div>
   <hr />
 
