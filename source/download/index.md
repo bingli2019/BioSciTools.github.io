@@ -16,7 +16,8 @@
     <b>Github:</b> <br />
     <a href="https://github.com/BioSciTools/BioSciTools.github.io" style="color: #008000">https://github.com/BioSciTools/BioSciTools.github.io</a> <br />
     <b>Website:</b> <a href="https://bioscitools.github.io" style="color: #008000">https://bioscitools.github.io</a> <br />
-    <b>Download:</b> <a href="https://hub.fastgit.xyz/BioSciTools/BioSciTools.github.io/releases/download/v1.0.4/BioSciTools-v1.0.4.exe" style="color: #008000">BioSciTools-v1.0.4 windows-x32-x64</a> <br />
+    <b>Download1 (AliyunDrive):</b> <a href="https://www.aliyundrive.com/s/Euk8rQpyByd" style="color: #008000">BioSciTools-v1.0.4 windows-x32-x64</a> <br />
+    <b>Download2 (Github):</b> <a href="https://hub.fastgit.xyz/BioSciTools/BioSciTools.github.io/releases/download/v1.0.4/BioSciTools-v1.0.4.exe" style="color: #008000">BioSciTools-v1.0.4 windows-x32-x64</a> <br />
     <hr />
     <b>Author: Benben Miao</b> <br />
     <b>Email:</b> benben.miao@outlook.com <br />
