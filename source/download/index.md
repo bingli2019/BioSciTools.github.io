@@ -12,15 +12,27 @@
   <br />
 
   <div style="border-radius: 10px; background: #efefef; box-shadow:  20px 20px 60px #cdcdcd, -20px -20px 60px #ffffff; padding: 20px; line-height: 20px;">
-    <h3>BioSciTools-v1.0.5</h3>
+    <h3>BioSciTools-v1.0.6</h3>
     <b>Github:</b> <br />
     <a href="https://github.com/BioSciTools/BioSciTools.github.io" style="color: #008000">https://github.com/BioSciTools/BioSciTools.github.io</a> <br />
     <b>Website:</b> <a href="https://bioscitools.github.io" style="color: #008000">https://bioscitools.github.io</a> <br />
     <!-- <b>Download1 (AliyunDrive):</b> <a href="https://www.aliyundrive.com/s/Euk8rQpyByd" style="color: #008000">BioSciTools-v1.0.5 windows-x32-x64</a> <br /> -->
-    <b>Download2 (Github):</b> <a href="https://hub.fastgit.xyz/BioSciTools/BioSciTools.github.io/releases/download/v1.0.5/BioSciTools-v1.0.5.exe" style="color: #008000">BioSciTools-v1.0.5 windows-x32-x64</a> <br />
+    <b>Download (Github):</b> <a href="https://hub.fastgit.xyz/BioSciTools/BioSciTools.github.io/releases/download/v1.0.6/BioSciTools-v1.0.6.exe" style="color: #008000">BioSciTools-v1.0.6 windows-x32-x64</a> <br />
     <hr />
     <b>Author: Benben Miao</b> <br />
     <b>Email:</b> benben.miao@outlook.com <br />
+  </div>
+  <hr />
+
+
+  <div style="border-radius: 10px; background: #efefef; box-shadow:  20px 20px 60px #cdcdcd, -20px -20px 60px #ffffff; padding: 20px; line-height: 20px; font-family: 'SimHei'; font-size: 14px; text-align: justify;">
+    <h3>BioSciTools: Version 1.0.6</h3>
+    <b>Date: 2022-05-06</b> <br />
+    <b>Update:</b> <a href="https://mp.weixin.qq.com/s/5AUKxQCConxOJHcn2PmNpw" style="color: #008000">BioSciTools: Version 1.0.6</a> <br />
+    <p><b>Bug Fixed:</b> 3.0 Emergency repair (紧急修复组件安全及更新).</p>
+    <p><b>Bug Fixed:</b> 3.1 Repair the operation logic of the Clear button of all apps, including resetting data and all parameters (修复所有App的Clear按钮的操作逻辑，包括重置数据及所有参数).</p>
+    <p><b>Bug Fixed:</b> 3.2 Clear the buffer data and results when closing App Tab button, and reset all variables and parameters (修复关闭App Tab按钮时清理缓冲数据及结果，并重置所有变量及参数).</p>
+    <p><b>Bug Fixed:</b> 3.3 Optimize the aesthetics of App Tab button (优化App Tab按钮的美观度).</p>
   </div>
   <hr />
 
