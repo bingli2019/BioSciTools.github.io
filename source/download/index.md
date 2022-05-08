@@ -12,18 +12,27 @@
   <br />
 
   <div style="border-radius: 10px; background: #efefef; box-shadow:  20px 20px 60px #cdcdcd, -20px -20px 60px #ffffff; padding: 20px; line-height: 20px;">
-    <h3>BioSciTools-v1.0.6</h3>
+    <h3>BioSciTools-v1.0.7</h3>
     <b>Github:</b> <br />
     <a href="https://github.com/BioSciTools/BioSciTools.github.io" style="color: #008000">https://github.com/BioSciTools/BioSciTools.github.io</a> <br />
     <b>Website:</b> <a href="https://bioscitools.github.io" style="color: #008000">https://bioscitools.github.io</a> <br />
     <!-- <b>Download1 (AliyunDrive):</b> <a href="https://www.aliyundrive.com/s/Euk8rQpyByd" style="color: #008000">BioSciTools-v1.0.5 windows-x32-x64</a> <br /> -->
-    <b>Download (Github):</b> <a href="https://hub.fastgit.xyz/BioSciTools/BioSciTools.github.io/releases/download/v1.0.6/BioSciTools-v1.0.6.exe" style="color: #008000">BioSciTools-v1.0.6 windows-x32-x64</a> <br />
+    <b>Download (Github):</b> <a href="https://hub.fastgit.xyz/BioSciTools/BioSciTools.github.io/releases/download/v1.0.7/BioSciTools-v1.0.7.exe" style="color: #008000">BioSciTools-v1.0.7 windows-x32-x64</a> <br />
     <hr />
     <b>Author: Benben Miao</b> <br />
     <b>Email:</b> benben.miao@outlook.com <br />
   </div>
   <hr />
 
+  <div style="border-radius: 10px; background: #efefef; box-shadow:  20px 20px 60px #cdcdcd, -20px -20px 60px #ffffff; padding: 20px; line-height: 20px; font-family: 'SimHei'; font-size: 14px; text-align: justify;">
+    <h3>BioSciTools: Version 1.0.7</h3>
+    <b>Date: 2022-05-09</b> <br />
+    <b>Update:</b> <a href="https://mp.weixin.qq.com/s/EJLthBZggalhs_z0nC6xmQ" style="color: #008000">BioSciTools: Version 1.0.7</a> <br />
+    <p><b>New Apps:</b> 1.0 GOenrichStat, GOenrichBar, GOenrichBubble, GOenrichNet, GOenrichTree, GOenrichMap (新增 GO 富集分析 6 个Apps). </p>
+    <p><b>New Apps:</b> 1.1 KEGGenrichBar, KEGGenrichBubble, KEGGenrichNet, KEGGenrichTree, KEGGenrichMap (新增 KEGG 富集分析 5 个Apps). </p>
+    <p><b>Bug Fixed:</b> 3.0 None. </p>
+  </div>
+  <hr />
 
   <div style="border-radius: 10px; background: #efefef; box-shadow:  20px 20px 60px #cdcdcd, -20px -20px 60px #ffffff; padding: 20px; line-height: 20px; font-family: 'SimHei'; font-size: 14px; text-align: justify;">
     <h3>BioSciTools: Version 1.0.6</h3>
