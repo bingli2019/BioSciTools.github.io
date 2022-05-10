@@ -12,15 +12,25 @@
   <br />
 
   <div style="border-radius: 10px; background: #efefef; box-shadow:  20px 20px 60px #cdcdcd, -20px -20px 60px #ffffff; padding: 20px; line-height: 20px;">
-    <h3>BioSciTools-v1.0.7</h3>
+    <h3>BioSciTools-v1.0.8</h3>
     <b>Github:</b> <br />
     <a href="https://github.com/BioSciTools/BioSciTools.github.io" style="color: #008000">https://github.com/BioSciTools/BioSciTools.github.io</a> <br />
     <b>Website:</b> <a href="https://bioscitools.github.io" style="color: #008000">https://bioscitools.github.io</a> <br />
     <!-- <b>Download1 (AliyunDrive):</b> <a href="https://www.aliyundrive.com/s/Euk8rQpyByd" style="color: #008000">BioSciTools-v1.0.5 windows-x32-x64</a> <br /> -->
-    <b>Download (Github):</b> <a href="https://hub.fastgit.xyz/BioSciTools/BioSciTools.github.io/releases/download/v1.0.7/BioSciTools-v1.0.7.exe" style="color: #008000">BioSciTools-v1.0.7 windows-x32-x64</a> <br />
+    <b>Download (Github):</b> <a href="https://hub.fastgit.xyz/BioSciTools/BioSciTools.github.io/releases/download/v1.0.8/BioSciTools-v1.0.8.exe" style="color: #008000">BioSciTools-v1.0.8 windows-x32-x64</a> <br />
     <hr />
     <b>Author: Benben Miao</b> <br />
     <b>Email:</b> benben.miao@outlook.com <br />
+  </div>
+  <hr />
+
+  <div style="border-radius: 10px; background: #efefef; box-shadow:  20px 20px 60px #cdcdcd, -20px -20px 60px #ffffff; padding: 20px; line-height: 20px; font-family: 'SimHei'; font-size: 14px; text-align: justify;">
+    <h3>BioSciTools: Version 1.0.8</h3>
+    <b>Date: 2022-05-10</b> <br />
+    <b>Update:</b> <a href="https://mp.weixin.qq.com/s/Y7-FoaTt7CeMS0ymPvMzfA" style="color: #008000">BioSciTools: Version 1.0.8</a> <br />
+    <p><b>New Features:</b> 2.0 Browser buttons and table boxes of all programs support dragging and uploading data files (所有程序的Browser按钮和表格框支持拖拽上传数据文件). </p>
+    <p><b>New Features:</b> 2.1 All programs add a progress bar display to show the progress of background tasks (所有程序添加进度条展示器用于显示后台任务的执行进度). </p>
+    <p><b>Bug Fixed:</b> 3.0 None. </p>
   </div>
   <hr />
 
