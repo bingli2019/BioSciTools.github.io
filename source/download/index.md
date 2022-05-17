@@ -12,15 +12,24 @@
   <br />
 
   <div style="border-radius: 10px; background: #efefef; box-shadow:  20px 20px 60px #cdcdcd, -20px -20px 60px #ffffff; padding: 20px; line-height: 20px;">
-    <h3>BioSciTools-v1.0.8</h3>
+    <h3>BioSciTools-v1.0.9</h3>
     <b>Github:</b> <br />
     <a href="https://github.com/BioSciTools/BioSciTools.github.io" style="color: #008000">https://github.com/BioSciTools/BioSciTools.github.io</a> <br />
     <b>Website:</b> <a href="https://bioscitools.github.io" style="color: #008000">https://bioscitools.github.io</a> <br />
     <!-- <b>Download1 (AliyunDrive):</b> <a href="https://www.aliyundrive.com/s/Euk8rQpyByd" style="color: #008000">BioSciTools-v1.0.5 windows-x32-x64</a> <br /> -->
-    <b>Download (Github):</b> <a href="https://hub.fastgit.xyz/BioSciTools/BioSciTools.github.io/releases/download/v1.0.8/BioSciTools-v1.0.8.exe" style="color: #008000">BioSciTools-v1.0.8 windows-x32-x64</a> <br />
+    <b>Download (Github):</b> <a href="https://hub.fastgit.xyz/BioSciTools/BioSciTools.github.io/releases/download/v1.0.9/BioSciTools-v1.0.9.exe" style="color: #008000">BioSciTools-v1.0.9 windows-x32-x64</a> <br />
     <hr />
     <b>Author: Benben Miao</b> <br />
     <b>Email:</b> benben.miao@outlook.com <br />
+  </div>
+  <hr />
+
+  <div style="border-radius: 10px; background: #efefef; box-shadow:  20px 20px 60px #cdcdcd, -20px -20px 60px #ffffff; padding: 20px; line-height: 20px; font-family: 'SimHei'; font-size: 14px; text-align: justify;">
+    <h3>BioSciTools: Version 1.0.9</h3>
+    <b>Date: 2022-05-10</b> <br />
+    <b>Update:</b> <a href="https://mp.weixin.qq.com/s/AtQpM6-7cPcFercaHCb9tw" style="color: #008000">BioSciTools: Version 1.0.8</a> <br />
+    <p><b>New Features:</b> 2.0 BioSciTools provides an analysis result Table Download interface for all algorithms on which data analysis programs are based, such as PCA, TSNE, GO enrichment, KEGG enrichment, etc. Users can download data analysis result files by running the result [Table Download] button (BioSciTools 为所有数据分析程序基于的算法如PCA、TSNE、GO enrichment、KEGG enrichment等提供分析结果表格下载接口，用户可以通过运行结果【Table Download】按钮下载数据分析结果文件). </p>
+    <p><b>Bug Fixed:</b> 3.0 Fix the sample data of GO and KEGG format error (修复GO和KEGG示例数据格式错误问题). </p>
   </div>
   <hr />
 
