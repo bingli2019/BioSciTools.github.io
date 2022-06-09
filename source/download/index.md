@@ -12,15 +12,23 @@
   <br />
 
   <div style="border-radius: 10px; background: #008000aa; box-shadow: 0px 0px 10px #00800088; padding: 20px; line-height: 20px;">
-    <h3>BioSciTools-v1.1.1</h3>
+    <h3>BioSciTools-v1.1.2</h3>
     <b>Github:</b> <br />
     <a href="https://github.com/BioSciTools/BioSciTools.github.io" style="color: #ffffff">https://github.com/BioSciTools/BioSciTools.github.io</a> <br />
     <b>Website:</b> <a href="https://bioscitools.github.io" style="color: #ffffff">https://bioscitools.github.io</a> <br />
-    <b>Download1 (AliyunDrive):</b> <a href="https://www.aliyundrive.com/s/Defuhf7FVGw" style="color: #ffffff">BioSciTools-v1.1.1 [Windows]</a> <br /> -->
-    <b>Download2 (Github):</b> <a href="https://hub.fastgit.xyz/BioSciTools/BioSciTools.github.io/releases/download/v1.1.1/BioSciTools-v1.1.1.exe" style="color: #ffffff">BioSciTools-v1.1.1 [Windows]</a> <br />
+    <b>Download1 (AliyunDrive):</b> <a href="https://www.aliyundrive.com/s/Defuhf7FVGw" style="color: #ffffff">BioSciTools-v1.1.2 [Windows]</a> <br /> -->
+    <b>Download2 (Github):</b> <a href="https://github.com/BioSciTools/BioSciTools.github.io/releases/download/v1.1.2/BioSciTools-v1.1.2.exe" style="color: #ffffff">BioSciTools-v1.1.2 [Windows]</a> <br />
     <hr />
     <b>Author: Benben Miao</b> <br />
     <b>Email:</b> benben.miao@outlook.com <br />
+  </div>
+  <hr />
+
+  <div style="border-radius: 10px; background: #efefef; box-shadow:  20px 20px 60px #cdcdcd, -20px -20px 60px #ffffff; padding: 20px; line-height: 20px; font-family: 'SimHei'; font-size: 14px; text-align: justify;">
+    <h3>BioSciTools: Version 1.1.2</h3>
+    <b>Date: 2022-06-09</b> <br />
+    <b>Update:</b> <a href="https://mp.weixin.qq.com/s/WU6-WclLa8X6JQi1z9XISg" style="color: #008000">BioSciTools: Version 1.1.2</a> <br />
+    <p><b>Bug Fixed:</b> 3.0 WGCNA Results Download. </p>
   </div>
   <hr />
 
