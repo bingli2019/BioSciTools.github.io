@@ -11,13 +11,12 @@
   </div>
   <br />
 
-  <div style="border-radius: 10px; background: #008000aa; box-shadow: 0px 0px 10px #00800088; padding: 20px; line-height: 20px;">
-    <h3>BioSciTools-v1.2.0</h3>
-    <b>Github:</b> <br />
-    <a href="https://github.com/BioSciTools/BioSciTools.github.io" style="color: #ffffff">https://github.com/BioSciTools/BioSciTools.github.io</a> <br />
+  <div style="border-radius: 10px; background: #008000aa; box-shadow: 0px 0px 10px #00800088; padding: 20px; line-height: 30px;">
+    <h3>BioSciTools-v1.2.1</h3>
+    <b>Github:</b> <a href="https://github.com/BioSciTools/BioSciTools.github.io" style="color: #ffffff">https://github.com/BioSciTools/BioSciTools.github.io</a> <br />
     <b>Website:</b> <a href="https://bioscitools.github.io" style="color: #ffffff">https://bioscitools.github.io</a> <br />
-    <b>Download1 (AliyunDrive):</b> <a href="https://www.aliyundrive.com/s/Defuhf7FVGw" style="color: #ffffff">BioSciTools-v1.2.0 [Windows]</a> <br />
-    <b>Download2 (Github):</b> <a href="https://github.com/BioSciTools/BioSciTools.github.io/releases/download/v1.2.0/BioSciTools-v1.2.0.exe" style="color: #ffffff">BioSciTools-v1.2.0 [Windows]</a> <br />
+    <b>Download1 (AliyunDrive):</b> <a href="https://www.aliyundrive.com/s/Defuhf7FVGw" style="color: #ffffff">BioSciTools-v1.2.1 [Windows]</a> <br />
+    <b>Download2 (Github):</b> <a href="https://github.com/BioSciTools/BioSciTools.github.io/releases/download/v1.2.1/BioSciTools-v1.2.1.exe" style="color: #ffffff">BioSciTools-v1.2.1 [Windows]</a> <br />
     <hr />
     <b>Author: Benben Miao</b> <br />
     <b>Email:</b> benben.miao@outlook.com <br />
@@ -25,9 +24,21 @@
   <hr />
 
   <div style="border-radius: 10px; background: #efefef; box-shadow:  20px 20px 60px #cdcdcd, -20px -20px 60px #ffffff; padding: 20px; line-height: 20px; font-family: 'SimHei'; font-size: 14px; text-align: justify;">
+    <h3>BioSciTools: Version 1.2.1</h3>
+    <b>Date: 2022-09-27</b> <br />
+    <b>Update:</b> <a href="https://mp.weixin.qq.com/s/ulDSHmqwGC30eP8EXqh5yA" style="color: #008000">BioSciTools-v1.2.1</a> <br />
+    <p><b>New Features:</b> 1.0 Complete the window and content of <b>Help -> HelpDoc</b>. </p>
+    <p><b>New Features:</b> 2.0 Complete the window and content of <b>Help -> About</b>. </p>
+    <p><b>New Features:</b> 3.0 Complete the window and content of <b>Help -> Source</b>. </p>
+    <p><b>New Features:</b> 4.0 Complete the window and content of <b>Help -> Version</b>. </p>
+    <p><b>New Features:</b> 5.0 Complete the window and content of <b>Help -> Update</b>. </p>
+  </div>
+  <hr />
+
+  <div style="border-radius: 10px; background: #efefef; box-shadow:  20px 20px 60px #cdcdcd, -20px -20px 60px #ffffff; padding: 20px; line-height: 20px; font-family: 'SimHei'; font-size: 14px; text-align: justify;">
     <h3>BioSciTools: Version 1.2.0</h3>
     <b>Date: 2022-09-25</b> <br />
-    <b>Update:</b> <a href="https://mp.weixin.qq.com/s/Q1Dhy6_vyh4u0pHhTCGI2w" style="color: #008000">BioSciTools-v1.2.0</a> <br />
+    <b>Update:</b> <a href="https://mp.weixin.qq.com/s/NIua7cNeOGINfvmq9YgcZw" style="color: #008000">BioSciTools-v1.2.0</a> <br />
     <p><b>New Features:</b> 1.0 This update of BioSciTools adds automatic detection of new stable versions when starting programs. The official address for releasing new versions is: https://github.com/BioSciTools/BioSciTools.github.io/releases At the same time, this update is version 1.2.0, which means that important functions are new and new.(BioSciTools此次更新增加了启动程序时自动检测新的稳定版本，新版本释放官方地址为：https://github.com/BioSciTools/BioSciTools.github.io/releases，同时此次更新为1.2.0版本，意味着重要功能跟新和新的开始。) </p>
   </div>
   <hr />
