@@ -12,11 +12,11 @@
   <br />
 
   <div style="border-radius: 10px; background: #008000aa; box-shadow: 0px 0px 10px #00800088; padding: 20px; line-height: 30px;">
-    <h3>BioSciTools-v1.2.2</h3>
+    <h3>BioSciTools-v1.2.3</h3>
     <b>Github:</b> <a href="https://github.com/BioSciTools/BioSciTools.github.io" style="color: #ffffff">https://github.com/BioSciTools/BioSciTools.github.io</a> <br />
     <b>Website:</b> <a href="https://bioscitools.github.io" style="color: #ffffff">https://bioscitools.github.io</a> <br />
-    <b>Download1 (AliyunDrive):</b> <a href="https://www.aliyundrive.com/s/Defuhf7FVGw" style="color: #ffffff">BioSciTools-v1.2.2 [Windows]</a> <br />
-    <b>Download2 (Github):</b> <a href="https://github.com/BioSciTools/BioSciTools.github.io/releases/download/v1.2.2/BioSciTools-v1.2.2.exe" style="color: #ffffff">BioSciTools-v1.2.2 [Windows]</a> <br />
+    <b>Download1 (AliyunDrive):</b> <a href="https://www.aliyundrive.com/s/Defuhf7FVGw" style="color: #ffffff">BioSciTools-v1.2.3 [Windows]</a> <br />
+    <b>Download2 (Github):</b> <a href="https://github.com/BioSciTools/BioSciTools.github.io/releases/download/v1.2.3/BioSciTools-v1.2.3.exe" style="color: #ffffff">BioSciTools-v1.2.3 [Windows]</a> <br />
     <hr />
     <b>Author: Benben Miao</b> <br />
     <b>Email:</b> benben.miao@outlook.com <br />
@@ -24,20 +24,31 @@
   <hr />
 
   <div style="border-radius: 10px; background: #efefef; box-shadow:  20px 20px 60px #cdcdcd, -20px -20px 60px #ffffff; padding: 20px; line-height: 20px; font-family: 'SimHei'; font-size: 14px; text-align: justify;">
+    <h3>BioSciTools: v1.2.3</h3>
+    <b>Date: 2022-09-30</b> <br />
+    <b>Update: <a href="https://mp.weixin.qq.com/s/yNleCDhdfmmFiv97LrRWlA" style="color: #008000">生物信息学Omics: https://mp.weixin.qq.com/s/yNleCDhdfmmFiv97LrRWlA</a> <br /> </b>
+    <p><b>New Feature:</b> 1.0 The color of the beautified menu bar after expansion is light blue with a little bit of technological style, and the transparency with shadows is set to be similar to the ground glass effect. The drop position of the menu bar is designed to be 5px, and all submenu bars are designed to be rounded rectangles (美化菜单栏展开后的颜色为淡蓝色带有些许科技风，并设置带有阴影的透明度类似毛玻璃效果，设计菜单栏下落位置为5px以及设计所有子菜单栏为圆角矩形).
+    <p><b>New Feature:</b> 2.0 The native Choicebox selection box is designed as a rounded rectangle, and the drop-down selection box is designed as transparent light blue (将原生自带的Choicebox选择框设计为圆角矩形，及将下拉选择框设计为透明淡蓝色).
+    <p><b>New Feature:</b> 3.0 Each category of the toolbox is added with a corresponding color icon, and the number of programs label is added (工具箱每个分类增加对应的彩色图标，并增加程序数量标签).
+    <p><b>New Feature:</b> 4.0 Light blue glow is added to all tool cards on the home page to show the scientific trend and add a light red background to the labels of tool cards (首页所有Tool Cards添加淡蓝色辉光，展示科技风，为工具卡片的标签添加淡红色背景).
+  </div>
+  <hr />
+
+  <div style="border-radius: 10px; background: #efefef; box-shadow:  20px 20px 60px #cdcdcd, -20px -20px 60px #ffffff; padding: 20px; line-height: 20px; font-family: 'SimHei'; font-size: 14px; text-align: justify;">
     <h3>BioSciTools: v1.2.2</h3>
     <b>Date: 2022-09-28</b> <br />
-    <b>Update:</b> <a href="https://mp.weixin.qq.com/s/LIjTmbgKWQJe9nSfX2wi0w" style="color: #008000">BioSciTools-v1.2.2</a> <br />
-    <p><b>New App:</b> 1.0 Ribosome 16S DNA Mindmap </p>
-    <p><b>New App:</b> 2.0 Metagenome Illumina Mindmap </p>
-    <p><b>New App:</b> 3.0 Metagenome PacBio Mindmap </p>
-    <p><b>New App:</b> 4.0 Glycometabolism Mindmap </p>
+    <b>Update:</b> <a href="https://mp.weixin.qq.com/s/LIjTmbgKWQJe9nSfX2wi0w" style="color: #008000">生物信息学Omics: https://mp.weixin.qq.com/s/LIjTmbgKWQJe9nSfX2wi0w</a> <br />
+    <p><b>New App:</b> 1.0 Ribosome 16S DNA Mindmap (微生物原核核糖体16S DNA即扩增子测序流程的思维导图).</p>
+    <p><b>New App:</b> 2.0 Metagenome Illumina Mindmap (微生物基于Illumina平台宏基因组测序及分析流程的思维导图).</p>
+    <p><b>New App:</b> 3.0 Metagenome PacBio Mindmap (微生物基于PacBio平台宏基因组测序及分析流程的思维导图).</p>
+    <p><b>New App:</b> 4.0 Glycometabolism Mindmap (糖代谢的复杂过程网络的思维导图).</p>
   </div>
   <hr />
 
   <div style="border-radius: 10px; background: #efefef; box-shadow:  20px 20px 60px #cdcdcd, -20px -20px 60px #ffffff; padding: 20px; line-height: 20px; font-family: 'SimHei'; font-size: 14px; text-align: justify;">
     <h3>BioSciTools: Version 1.2.1</h3>
     <b>Date: 2022-09-27</b> <br />
-    <b>Update:</b> <a href="https://mp.weixin.qq.com/s/ulDSHmqwGC30eP8EXqh5yA" style="color: #008000">BioSciTools-v1.2.1</a> <br />
+    <b>Update:</b> <a href="https://mp.weixin.qq.com/s/ulDSHmqwGC30eP8EXqh5yA" style="color: #008000">生物信息学Omics: https://mp.weixin.qq.com/s/ulDSHmqwGC30eP8EXqh5yA</a> <br />
     <p><b>New Features:</b> 1.0 Complete the window and content of <b>Help -> HelpDoc</b>. </p>
     <p><b>New Features:</b> 2.0 Complete the window and content of <b>Help -> About</b>. </p>
     <p><b>New Features:</b> 3.0 Complete the window and content of <b>Help -> Source</b>. </p>
@@ -49,7 +60,7 @@
   <div style="border-radius: 10px; background: #efefef; box-shadow:  20px 20px 60px #cdcdcd, -20px -20px 60px #ffffff; padding: 20px; line-height: 20px; font-family: 'SimHei'; font-size: 14px; text-align: justify;">
     <h3>BioSciTools: Version 1.2.0</h3>
     <b>Date: 2022-09-25</b> <br />
-    <b>Update:</b> <a href="https://mp.weixin.qq.com/s/NIua7cNeOGINfvmq9YgcZw" style="color: #008000">BioSciTools-v1.2.0</a> <br />
+    <b>Update:</b> <a href="https://mp.weixin.qq.com/s/NIua7cNeOGINfvmq9YgcZw" style="color: #008000">生物信息学Omics: https://mp.weixin.qq.com/s/NIua7cNeOGINfvmq9YgcZw</a> <br />
     <p><b>New Features:</b> 1.0 This update of BioSciTools adds automatic detection of new stable versions when starting programs. The official address for releasing new versions is: https://github.com/BioSciTools/BioSciTools.github.io/releases At the same time, this update is version 1.2.0, which means that important functions are new and new.(BioSciTools此次更新增加了启动程序时自动检测新的稳定版本，新版本释放官方地址为：https://github.com/BioSciTools/BioSciTools.github.io/releases，同时此次更新为1.2.0版本，意味着重要功能跟新和新的开始。) </p>
   </div>
   <hr />
@@ -57,7 +68,7 @@
   <div style="border-radius: 10px; background: #efefef; box-shadow:  20px 20px 60px #cdcdcd, -20px -20px 60px #ffffff; padding: 20px; line-height: 20px; font-family: 'SimHei'; font-size: 14px; text-align: justify;">
     <h3>BioSciTools: Version 1.1.3</h3>
     <b>Date: 2022-06-25</b> <br />
-    <b>Update:</b> <a href="https://mp.weixin.qq.com/s/Q1Dhy6_vyh4u0pHhTCGI2w" style="color: #008000">BioSciTools: Version 1.1.3</a> <br />
+    <b>Update:</b> <a href="https://mp.weixin.qq.com/s/Q1Dhy6_vyh4u0pHhTCGI2w" style="color: #008000">生物信息学Omics: https://mp.weixin.qq.com/s/Q1Dhy6_vyh4u0pHhTCGI2w</a> <br />
     <p><b>New Apps:</b> 1.0 ChordPlot (弦图可视化复杂配对关系). </p>
   </div>
   <hr />
@@ -65,7 +76,7 @@
   <div style="border-radius: 10px; background: #efefef; box-shadow:  20px 20px 60px #cdcdcd, -20px -20px 60px #ffffff; padding: 20px; line-height: 20px; font-family: 'SimHei'; font-size: 14px; text-align: justify;">
     <h3>BioSciTools: Version 1.1.2</h3>
     <b>Date: 2022-06-09</b> <br />
-    <b>Update:</b> <a href="https://mp.weixin.qq.com/s/GoAxeMZeo7okmW5KxErtWw" style="color: #008000">BioSciTools: Version 1.1.2</a> <br />
+    <b>Update:</b> <a href="https://mp.weixin.qq.com/s/GoAxeMZeo7okmW5KxErtWw" style="color: #008000">生物信息学Omics: https://mp.weixin.qq.com/s/GoAxeMZeo7okmW5KxErtWw</a> <br />
     <p><b>New Apps:</b> 1.0 SurvivalAnalysis (临床医学生存分析). </p>
     <p><b>Bug Fixed:</b> 3.0 WGCNA Results Download. </p>
   </div>
@@ -74,7 +85,7 @@
   <div style="border-radius: 10px; background: #efefef; box-shadow:  20px 20px 60px #cdcdcd, -20px -20px 60px #ffffff; padding: 20px; line-height: 20px; font-family: 'SimHei'; font-size: 14px; text-align: justify;">
     <h3>BioSciTools: Version 1.1.1</h3>
     <b>Date: 2022-06-07</b> <br />
-    <b>Update:</b> <a href="https://mp.weixin.qq.com/s/WU6-WclLa8X6JQi1z9XISg" style="color: #008000">BioSciTools: Version 1.1.1</a> <br />
+    <b>Update:</b> <a href="https://mp.weixin.qq.com/s/WU6-WclLa8X6JQi1z9XISg" style="color: #008000">生物信息学Omics: https://mp.weixin.qq.com/s/WU6-WclLa8X6JQi1z9XISg</a> <br />
     <p><b>New Apps:</b> 1.0 WGCNA (WGCNA 加权基因共表达网络分析). </p>
   </div>
   <hr />
@@ -82,7 +93,7 @@
   <div style="border-radius: 10px; background: #efefef; box-shadow:  20px 20px 60px #cdcdcd, -20px -20px 60px #ffffff; padding: 20px; line-height: 20px; font-family: 'SimHei'; font-size: 14px; text-align: justify;">
     <h3>BioSciTools: Version 1.1.0</h3>
     <b>Date: 2022-05-31</b> <br />
-    <b>Update:</b> <a href="https://mp.weixin.qq.com/s/gSPEJ4-KXJtsg9P8rc84LQ" style="color: #008000">BioSciTools: Version 1.1.0</a> <br />
+    <b>Update:</b> <a href="https://mp.weixin.qq.com/s/gSPEJ4-KXJtsg9P8rc84LQ" style="color: #008000">生物信息学Omics: https://mp.weixin.qq.com/s/gSPEJ4-KXJtsg9P8rc84LQ</a> <br />
     <p><b>New Apps:</b> 1.0 ClusterPlot (聚类分析多算法散点多边形可视化). </p>
     <p><b>New Apps:</b> 1.1 ClusterTree (聚类分析多算法多类型树状可视化). </p>
     <p><b>Bug Fixed:</b> 3.0 Fixed home page categories list (修复首页程序分类列表). </p>
@@ -92,7 +103,7 @@
   <div style="border-radius: 10px; background: #efefef; box-shadow:  20px 20px 60px #cdcdcd, -20px -20px 60px #ffffff; padding: 20px; line-height: 20px; font-family: 'SimHei'; font-size: 14px; text-align: justify;">
     <h3>BioSciTools: Version 1.0.9</h3>
     <b>Date: 2022-05-10</b> <br />
-    <b>Update:</b> <a href="https://mp.weixin.qq.com/s/AtQpM6-7cPcFercaHCb9tw" style="color: #008000">BioSciTools: Version 1.0.8</a> <br />
+    <b>Update:</b> <a href="https://mp.weixin.qq.com/s/AtQpM6-7cPcFercaHCb9tw" style="color: #008000">生物信息学Omics: https://mp.weixin.qq.com/s/AtQpM6-7cPcFercaHCb9tw</a> <br />
     <p><b>New Features:</b> 2.0 BioSciTools provides an analysis result Table Download interface for all algorithms on which data analysis programs are based, such as PCA, TSNE, GO enrichment, KEGG enrichment, etc. Users can download data analysis result files by running the result [Table Download] button (BioSciTools 为所有数据分析程序基于的算法如PCA、TSNE、GO enrichment、KEGG enrichment等提供分析结果表格下载接口，用户可以通过运行结果【Table Download】按钮下载数据分析结果文件). </p>
     <p><b>Bug Fixed:</b> 3.0 Fix the sample data of GO and KEGG format error (修复GO和KEGG示例数据格式错误问题). </p>
   </div>
@@ -101,7 +112,7 @@
   <div style="border-radius: 10px; background: #efefef; box-shadow:  20px 20px 60px #cdcdcd, -20px -20px 60px #ffffff; padding: 20px; line-height: 20px; font-family: 'SimHei'; font-size: 14px; text-align: justify;">
     <h3>BioSciTools: Version 1.0.8</h3>
     <b>Date: 2022-05-10</b> <br />
-    <b>Update:</b> <a href="https://mp.weixin.qq.com/s/Y7-FoaTt7CeMS0ymPvMzfA" style="color: #008000">BioSciTools: Version 1.0.8</a> <br />
+    <b>Update:</b> <a href="https://mp.weixin.qq.com/s/Y7-FoaTt7CeMS0ymPvMzfA" style="color: #008000">生物信息学Omics: https://mp.weixin.qq.com/s/Y7-FoaTt7CeMS0ymPvMzfA</a> <br />
     <p><b>New Features:</b> 2.0 Browser buttons and table boxes of all programs support dragging and uploading data files (所有程序的Browser按钮和表格框支持拖拽上传数据文件). </p>
     <p><b>New Features:</b> 2.1 All programs add a progress bar display to show the progress of background tasks (所有程序添加进度条展示器用于显示后台任务的执行进度). </p>
     <p><b>Bug Fixed:</b> 3.0 None. </p>
@@ -111,7 +122,7 @@
   <div style="border-radius: 10px; background: #efefef; box-shadow:  20px 20px 60px #cdcdcd, -20px -20px 60px #ffffff; padding: 20px; line-height: 20px; font-family: 'SimHei'; font-size: 14px; text-align: justify;">
     <h3>BioSciTools: Version 1.0.7</h3>
     <b>Date: 2022-05-09</b> <br />
-    <b>Update:</b> <a href="https://mp.weixin.qq.com/s/EJLthBZggalhs_z0nC6xmQ" style="color: #008000">BioSciTools: Version 1.0.7</a> <br />
+    <b>Update:</b> <a href="https://mp.weixin.qq.com/s/EJLthBZggalhs_z0nC6xmQ" style="color: #008000">生物信息学Omics: https://mp.weixin.qq.com/s/EJLthBZggalhs_z0nC6xmQ</a> <br />
     <p><b>New Apps:</b> 1.0 GOenrichStat, GOenrichBar, GOenrichBubble, GOenrichNet, GOenrichTree, GOenrichMap (新增 GO 富集分析 6 个Apps). </p>
     <p><b>New Apps:</b> 1.1 KEGGenrichBar, KEGGenrichBubble, KEGGenrichNet, KEGGenrichTree, KEGGenrichMap (新增 KEGG 富集分析 5 个Apps). </p>
     <p><b>Bug Fixed:</b> 3.0 None. </p>
@@ -121,7 +132,7 @@
   <div style="border-radius: 10px; background: #efefef; box-shadow:  20px 20px 60px #cdcdcd, -20px -20px 60px #ffffff; padding: 20px; line-height: 20px; font-family: 'SimHei'; font-size: 14px; text-align: justify;">
     <h3>BioSciTools: Version 1.0.6</h3>
     <b>Date: 2022-05-06</b> <br />
-    <b>Update:</b> <a href="https://mp.weixin.qq.com/s/5AUKxQCConxOJHcn2PmNpw" style="color: #008000">BioSciTools: Version 1.0.6</a> <br />
+    <b>Update:</b> <a href="https://mp.weixin.qq.com/s/5AUKxQCConxOJHcn2PmNpw" style="color: #008000">生物信息学Omics: https://mp.weixin.qq.com/s/5AUKxQCConxOJHcn2PmNpw</a> <br />
     <p><b>Bug Fixed:</b> 3.0 Emergency repair (紧急修复组件安全及更新).</p>
     <p><b>Bug Fixed:</b> 3.1 Repair the operation logic of the Clear button of all apps, including resetting data and all parameters (修复所有App的Clear按钮的操作逻辑，包括重置数据及所有参数).</p>
     <p><b>Bug Fixed:</b> 3.2 Clear the buffer data and results when closing App Tab button, and reset all variables and parameters (修复关闭App Tab按钮时清理缓冲数据及结果，并重置所有变量及参数).</p>
@@ -132,7 +143,7 @@
   <div style="border-radius: 10px; background: #efefef; box-shadow:  20px 20px 60px #cdcdcd, -20px -20px 60px #ffffff; padding: 20px; line-height: 20px; font-family: 'SimHei'; font-size: 14px; text-align: justify;">
     <h3>BioSciTools: Version 1.0.5</h3>
     <b>Date: 2022-05-06</b> <br />
-    <b>Update:</b> <a href="https://mp.weixin.qq.com/s/5AUKxQCConxOJHcn2PmNpw" style="color: #008000">BioSciTools: Version 1.0.5</a> <br />
+    <b>Update:</b> <a href="https://mp.weixin.qq.com/s/5AUKxQCConxOJHcn2PmNpw" style="color: #008000">生物信息学Omics: https://mp.weixin.qq.com/s/5AUKxQCConxOJHcn2PmNpw</a> <br />
     <p><b>New Apps:</b> 1.0 SinCosTan (三角函数表达式与可视化)</p>
     <p><b>New Apps:</b> 1.1 FourierFormula (傅里叶级数与变换可视化)</p>
     <p><b>Bug Fixed:</b> 3.0 Fixed option of Clear button (修复 Clear 按钮的操作逻辑,避免数据交叉).</p>
@@ -142,7 +153,7 @@
   <div style="border-radius: 10px; background: #efefef; box-shadow:  20px 20px 60px #cdcdcd, -20px -20px 60px #ffffff; padding: 20px; line-height: 20px; font-family: 'SimHei'; font-size: 14px; text-align: justify;">
     <h3>BioSciTools: Version 1.0.4</h3>
     <b>Date: 2022-05-03</b> <br />
-    <b>Update:</b> <a href="https://mp.weixin.qq.com/s/yj_-f98Vu_Uzczt2IB1SYw" style="color: #008000">BioSciTools: Version 1.0.4</a> <br />
+    <b>Update:</b> <a href="https://mp.weixin.qq.com/s/yj_-f98Vu_Uzczt2IB1SYw" style="color: #008000">生物信息学Omics: https://mp.weixin.qq.com/s/yj_-f98Vu_Uzczt2IB1SYw</a> <br />
     <p><b>New Apps:</b> 1.0 NetworkPlot (Regulatory Network Plot) (新增 Network Plot App!)</p>
     <p><b>New Apps:</b> 1.1 CommunityPlot (Regulatory Network Plot) (新增 Community Plot App!)</p>
     <p><b>New Features:</b> 2.0 The regulatory network plays a significant advantage in exploring the analysis of complex biological regulatory relationships. Based on the regulatory pairing data between two types of nodes (it is suggested that the regulatory relationship pairs meet the significance), this program constructs the regulatory relationship network by calculating the connectivity or simply counting the number of nodes, and visualizes it. Is suitable for that regulation relationship of protein-protein, gene-gene, microRNA-mrna, TF-gene, microRNA-circrna, microRNA-lncrna and other molecular pair. (调控网络在探索生物学复杂的调控关系分析中发挥着显著的优势，本程序基于两类节点间的调控配对数据（建议是符合显著性的调控关系对）通过计算连接度或单纯计算节点数进行构建调控关系网络并可视化。适用于Protein - Protein, Gene - Gene, MicroRNA - mRNA, TF - Gene, MicroRNA - CircRNA, MicroRNA - LncRNA等分子对调控关系。)</p>
@@ -153,7 +164,7 @@
   <div style="border-radius: 10px; background: #efefef; box-shadow:  20px 20px 60px #cdcdcd, -20px -20px 60px #ffffff; padding: 20px; line-height: 20px; font-family: 'SimHei'; font-size: 14px; text-align: justify;">
     <h3>BioSciTools: Version 1.0.3</h3>
     <b>Date: 2022-05-03</b> <br />
-    <b>Update:</b> <a href="https://mp.weixin.qq.com/s/f0SF7EtGwKy47y6JDaP0JQ" style="color: #008000">BioSciTools: Version 1.0.3</a> <br />
+    <b>Update:</b> <a href="https://mp.weixin.qq.com/s/f0SF7EtGwKy47y6JDaP0JQ" style="color: #008000">生物信息学Omics: https://mp.weixin.qq.com/s/f0SF7EtGwKy47y6JDaP0JQ</a> <br />
     <p><b>New Apps:</b> 1.0 TSNEPlot (TSNE analysis and Plot) (新增 TSNE Plot App!)</p>
     <p><b>New Apps:</b> 1.1 VolcanoPlot (Volcano and Plot) (新增 Volcano Plot App!)</p>
     <p><b>New Features:</b> 2.0 Add BioSciTools clock and dynamic painting in the right drawer of the Home page. (Home 页面右抽屉添加BioSciTools时钟和动态花绘。)</p>
@@ -165,7 +176,7 @@
   <div style="border-radius: 10px; background: #efefef; box-shadow:  20px 20px 60px #cdcdcd, -20px -20px 60px #ffffff; padding: 20px; line-height: 20px; font-family: 'SimHei'; font-size: 14px; text-align: justify;">
     <h3>BioSciTools: Version 1.0.2</h3>
     <b>Date: 2022-05-01</b> <br />
-    <b>Update:</b> <a href="https://mp.weixin.qq.com/s/QNLV8dLrXz1kRDeiaLqc9w" style="color: #008000">BioSciTools: Version 1.0.2</a> <br />
+    <b>Update:</b> <a href="https://mp.weixin.qq.com/s/QNLV8dLrXz1kRDeiaLqc9w" style="color: #008000">生物信息学Omics: https://mp.weixin.qq.com/s/QNLV8dLrXz1kRDeiaLqc9w</a> <br />
     <p><b>New Apps:</b> 1.0 Venn Plot (Venn Diagram Plot up to 7 sets) (新增 VennPlot App!)</p>
     <p><b>New Features:</b> 2.0 The right drawer of the Home page supports small screen access to Bioscience Tools official website and access to version update information. (Home 页面右抽屉支持小屏幕访问 BioSciTools 官网和访问版本更新信息。)</p>
     <p><b>New Features:</b> 2.1 The left drawer of the Home page crosses the mouse over the program button to support the preview function of the program interface. (Home 页面左抽屉在程序按钮上划过鼠标支持程序界面预览功能。)</p>
@@ -176,7 +187,7 @@
   <div style="border-radius: 10px; background: #efefef; box-shadow:  20px 20px 60px #cdcdcd, -20px -20px 60px #ffffff; padding: 20px; line-height: 20px; font-family: 'SimHei'; font-size: 14px; text-align: justify;"">
     <h3>BioSciTools: Version 1.0.1</h3>
     <b>Date: 2022-04-30</b> <br />
-    <b>Update:</b> <a href="https://mp.weixin.qq.com/s/SxNTbKUw-lJhxgJppjUqxA" style="color: #008000">BioSciTools: Version 1.0.1</a> <br />
+    <b>Update:</b> <a href="https://mp.weixin.qq.com/s/SxNTbKUw-lJhxgJppjUqxA" style="color: #008000">生物信息学Omics: https://mp.weixin.qq.com/s/SxNTbKUw-lJhxgJppjUqxA</a> <br />
     <p><b>New Apps:</b> 1.0 PCAPlot (Principal Component Analysis and Plot). (新增 PCAPlot 进行 PCA 降维分析及可视化 App!)</p>
     <p><b>New Features:</b> 2.0 Add the Slider component for the first time. (首次添加数值滑动组件。)</p>
     <p><b>New Features:</b> 2.1 Added official website information and version update section to the Home page for the first time. (首次在 Home 页面增加官网信息及版本更新板块。)</p>
@@ -188,7 +199,7 @@
   <div style="border-radius: 10px; background: #efefef; box-shadow:  20px 20px 60px #cdcdcd, -20px -20px 60px #ffffff; padding: 20px; line-height: 20px; font-family: 'SimHei'; font-size: 14px; text-align: justify;"">
     <h3>BioSciTools: Version 1.0.0</h3>
     <b>Date: 2022-04-28</b> <br />
-    <b>Update:</b> <a href="https://mp.weixin.qq.com/s/DM5j4PDnBExwBu5o9VTr7g" style="color: #008000">BioSciTools: Version 1.0.0</a> <br />
+    <b>Update:</b> <a href="https://mp.weixin.qq.com/s/DM5j4PDnBExwBu5o9VTr7g" style="color: #008000">生物信息学Omics: https://mp.weixin.qq.com/s/DM5j4PDnBExwBu5o9VTr7g</a> <br />
     <p><b>New Apps:</b> 1.1 RevCom (Reverse Complete) (新增 RevCom DNA序列反向互补操作 App!)</p>
     <p><b>New Apps:</b> 1.2 CorPlot (Correlation Analysis and Plot) (新增 CorPlot 样品 Pearson 相关性分析及可视化 App。)</p>
     <p><b>Bug Fixed:</b> 2.1 Package JRE 11 Java environment in BioSciTools, so the Java 8 or later version don't need on user's computer.</p>
@@ -198,7 +209,7 @@
   <div style="border-radius: 10px; background: #efefef; box-shadow:  20px 20px 60px #cdcdcd, -20px -20px 60px #ffffff; padding: 20px; line-height: 20px; font-family: 'SimHei'; font-size: 14px; text-align: justify;"">
     <h3>BioSciTools: Version 1.0.0-Alpha</h3>
     <b>Date: 2022-04-26</b> <br />
-    <b>Update:</b> <a href="https://mp.weixin.qq.com/s/cGxWvXsDHoHwVE04NIzuOw" style="color: #008000">BioSciTools: Version 1.0.0</a> <br />
+    <b>Update:</b> <a href="https://mp.weixin.qq.com/s/cGxWvXsDHoHwVE04NIzuOw" style="color: #008000">生物信息学Omics: https://mp.weixin.qq.com/s/cGxWvXsDHoHwVE04NIzuOw</a> <br />
     <p><b>New Apps:</b> BioSciTools project assumption -> JavaFX project was developed based on Java 11 -> BioSciTools framework was preliminarily completed -> BioSciTools (UI) user interface prototype design was completed. </p>
     <p><b>Bug Fixed:</b> Compile for the first time and support the installation of Windows platform.</p>
   </div>
