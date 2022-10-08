@@ -18,6 +18,9 @@ menu:
   Download: 
     url: /download
     icon: fas fa-download
+  Feedback: 
+    url: /feedback
+    icon: fas fa-brush
   About:
     url: /about
     icon: fas fa-user-circle
