@@ -12,11 +12,11 @@
   <br />
 
   <div style="border-radius: 10px; background: #008000aa; box-shadow: 0px 0px 10px #00800088; padding: 20px; line-height: 30px;">
-    <h3>BioSciTools-v1.2.3</h3>
+    <h3>BioSciTools-v1.2.4</h3>
     <b>Github:</b> <a href="https://github.com/BioSciTools/BioSciTools.github.io" style="color: #ffffff">https://github.com/BioSciTools/BioSciTools.github.io</a> <br />
     <b>Website:</b> <a href="https://bioscitools.github.io" style="color: #ffffff">https://bioscitools.github.io</a> <br />
-    <b>Download1 (AliyunDrive):</b> <a href="https://www.aliyundrive.com/s/Defuhf7FVGw" style="color: #ffffff">BioSciTools-v1.2.3 [Windows]</a> <br />
-    <b>Download2 (Github):</b> <a href="https://github.com/BioSciTools/BioSciTools.github.io/releases/download/v1.2.3/BioSciTools-v1.2.3.exe" style="color: #ffffff">BioSciTools-v1.2.3 [Windows]</a> <br />
+    <b>Download1 (AliyunDrive):</b> <a href="https://www.aliyundrive.com/s/Defuhf7FVGw" style="color: #ffffff">BioSciTools-v1.2.4 [Windows]</a> <br />
+    <b>Download2 (Github):</b> <a href="https://github.com/BioSciTools/BioSciTools.github.io/releases/download/v1.2.4/BioSciTools-v1.2.4.exe" style="color: #ffffff">BioSciTools-v1.2.4 [Windows]</a> <br />
     <hr />
     <b>Author: Benben Miao</b> <br />
     <b>Email:</b> benben.miao@outlook.com <br />
@@ -24,7 +24,15 @@
   <hr />
 
   <div style="border-radius: 10px; background: #efefef; box-shadow:  20px 20px 60px #cdcdcd, -20px -20px 60px #ffffff; padding: 20px; line-height: 20px; font-family: 'SimHei'; font-size: 14px; text-align: justify;">
-    <h3>BioSciTools: v1.2.3</h3>
+    <h3>BioSciTools-v1.2.4</h3>
+    <b>Date: 2022-10-30</b> <br />
+    <b>Update: <a href="https://mp.weixin.qq.com/s/YeYZ-M-QCwr18Vc6Quytzg" style="color: #008000">生物信息学Omics: https://mp.weixin.qq.com/s/YeYZ-M-QCwr18Vc6Quytzg</a> <br /> </b>
+    <p><b>Bug Fixed:</b> 1.0 This update is an emergency update, which mainly solves the fatal problem that many researchers can't start after installing BioSciTools recently. ① This problem is not caused by Java and R environment. The program comes with a compressed version of JDK-11 environment, so users don't need to install any version of Java themselves. ② This problem is mainly due to the regional shielding of specific domain names in https://api.github.com. Therefore, this update mainly solves the problem that the API in the function is automatically requested to be updated when the program is started, and the program can be started and run under any circumstances of networking or disconnection after the update (此次更新属于紧急更新，主要解决近期以来不少科研者遇到安装BioSciTools后无法启动的致命问题。①该问题不是由于Java和R环境导致，程序自带压缩版本的JDK-11环境，用户无须自己安装任何版本的Java。②该问题主要由于区域对https://api.github.com特定域名的屏蔽，因此此次更新主要解决由于程序启动时自动请求更新函数中的API，更新后可在联网或断网的任何情况下启动并运行程序).
+  </div>
+  <hr />
+
+  <div style="border-radius: 10px; background: #efefef; box-shadow:  20px 20px 60px #cdcdcd, -20px -20px 60px #ffffff; padding: 20px; line-height: 20px; font-family: 'SimHei'; font-size: 14px; text-align: justify;">
+    <h3>BioSciTools-v1.2.3</h3>
     <b>Date: 2022-09-30</b> <br />
     <b>Update: <a href="https://mp.weixin.qq.com/s/yNleCDhdfmmFiv97LrRWlA" style="color: #008000">生物信息学Omics: https://mp.weixin.qq.com/s/yNleCDhdfmmFiv97LrRWlA</a> <br /> </b>
     <p><b>New Feature:</b> 1.0 The color of the beautified menu bar after expansion is light blue with a little bit of technological style, and the transparency with shadows is set to be similar to the ground glass effect. The drop position of the menu bar is designed to be 5px, and all submenu bars are designed to be rounded rectangles (美化菜单栏展开后的颜色为淡蓝色带有些许科技风，并设置带有阴影的透明度类似毛玻璃效果，设计菜单栏下落位置为5px以及设计所有子菜单栏为圆角矩形).
