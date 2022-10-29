@@ -15,8 +15,10 @@
     <h3>BioSciTools-v1.2.4</h3>
     <b>Github:</b> <a href="https://github.com/BioSciTools/BioSciTools.github.io" style="color: #ffffff">https://github.com/BioSciTools/BioSciTools.github.io</a> <br />
     <b>Website:</b> <a href="https://bioscitools.github.io" style="color: #ffffff">https://bioscitools.github.io</a> <br />
-    <b>Download1 (AliyunDrive):</b> <a href="https://www.aliyundrive.com/s/Defuhf7FVGw" style="color: #ffffff">BioSciTools-v1.2.4 [Windows]</a> <br />
-    <b>Download2 (Github):</b> <a href="https://github.com/BioSciTools/BioSciTools.github.io/releases/download/v1.2.4/BioSciTools-v1.2.4.exe" style="color: #ffffff">BioSciTools-v1.2.4 [Windows]</a> <br />
+    <b>SourceForge:</b> <a href="https://sourceforge.net/projects/bioscitools-github-io/" style="color: #ffffff">https://sourceforge.net/projects/bioscitools-github-io/</a> <br />
+    <b>Download1 (SourceForge):</b> <a href="https://sourceforge.net/projects/bioscitools-github-io/files/latest/download" style="color: #ffffff">BioSciTools-v1.2.4 [Windows]</a> <br />
+    <b>Download2 (AliyunDrive):</b> <a href="https://www.aliyundrive.com/s/Defuhf7FVGw" style="color: #ffffff">BioSciTools-v1.2.4 [Windows]</a> <br />
+    <b>Download3 (Github Release):</b> <a href="https://github.com/BioSciTools/BioSciTools.github.io/releases/download/v1.2.4/BioSciTools-v1.2.4.exe" style="color: #ffffff">BioSciTools-v1.2.4 [Windows]</a> <br />
     <hr />
     <b>Author: Benben Miao</b> <br />
     <b>Email:</b> benben.miao@outlook.com <br />
