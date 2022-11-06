@@ -12,17 +12,27 @@
   <br />
 
   <div style="border-radius: 10px; background: #008000aa; box-shadow: 0px 0px 10px #00800088; padding: 20px; line-height: 30px;">
-    <h3>BioSciTools-v1.2.4</h3>
+    <h3>BioSciTools-v1.2.5</h3>
     <b>Github:</b> <a href="https://github.com/BioSciTools/BioSciTools.github.io" style="color: #ffffff">https://github.com/BioSciTools/BioSciTools.github.io</a> <br />
     <b>Website:</b> <a href="https://bioscitools.github.io" style="color: #ffffff">https://bioscitools.github.io</a> <br />
     <b>SourceForge:</b> <a href="https://sourceforge.net/projects/bioscitools-github-io/" style="color: #ffffff">https://sourceforge.net/projects/bioscitools-github-io/</a> <br />
     <br/>
-    <b>Download1 (SourceForge):</b> <a href="https://sourceforge.net/projects/bioscitools-github-io/files/latest/download" style="color: #ffffff">BioSciTools-v1.2.4 [Windows]</a> <br />
-    <b>Download2 (AliyunDrive):</b> <a href="https://www.aliyundrive.com/s/Defuhf7FVGw" style="color: #ffffff">BioSciTools-v1.2.4 [Windows]</a> <br />
-    <b>Download3 (Github Release):</b> <a href="https://github.com/BioSciTools/BioSciTools.github.io/releases/download/v1.2.4/BioSciTools-v1.2.4.exe" style="color: #ffffff">BioSciTools-v1.2.4 [Windows]</a> <br />
+    <b>Download1 (SourceForge):</b> <a href="https://sourceforge.net/projects/bioscitools-github-io/files/latest/download" style="color: #ffffff">BioSciTools-v1.2.5 [Windows]</a> <br />
+    <b>Download2 (AliyunDrive):</b> <a href="https://www.aliyundrive.com/s/Defuhf7FVGw" style="color: #ffffff">BioSciTools-v1.2.5 [Windows]</a> <br />
+    <b>Download3 (Github Release):</b> <a href="https://github.com/BioSciTools/BioSciTools.github.io/releases/download/v1.2.5/BioSciTools-v1.2.5.exe" style="color: #ffffff">BioSciTools-v1.2.5 [Windows]</a> <br />
     <hr />
     <b>Author: Benben Miao</b> <br />
     <b>Email:</b> benben.miao@outlook.com <br />
+  </div>
+  <hr />
+
+  <div style="border-radius: 10px; background: #efefef; box-shadow:  20px 20px 60px #cdcdcd, -20px -20px 60px #ffffff; padding: 20px; line-height: 20px; font-family: 'SimHei'; font-size: 14px; text-align: justify;">
+    <h3>BioSciTools-v1.2.5</h3>
+    <b>Date: 2022-10-30</b> <br />
+    <b>Update: <a href="https://mp.weixin.qq.com/s/38rDWcsIxTIRgbPNCudhaw" style="color: #008000">生物信息学Omics: https://mp.weixin.qq.com/s/38rDWcsIxTIRgbPNCudhaw</a> <br /> </b>
+    <p><b>New Features:</b> 1.1 New courses and feedback section (新增课程与反馈板块).
+    <p><b>New Features:</b> 1.2 New Shiny programs, such as Network Shiny, WGCNA Shiny and Community Shiny (新增Shiny程序，如Network Shiny、WGCNA Shiny、Community Shiny).
+    <p><b>New Features:</b> 1.3 Re-adjust the layout and beautification of the program interface (重新调整程序界面布局和美化).
   </div>
   <hr />
 
