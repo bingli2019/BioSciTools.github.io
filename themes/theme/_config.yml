@@ -18,6 +18,9 @@ menu:
   Download: 
     url: /download
     icon: fas fa-download
+  SourceForge: 
+    url: /sourceforge
+    icon: fas fa-video
   Feedback: 
     url: /feedback
     icon: fas fa-brush
