@@ -12,17 +12,27 @@
   <br />
 
   <div style="border-radius: 10px; background: #008000aa; box-shadow: 0px 0px 10px #00800088; padding: 20px; line-height: 30px;">
-    <h3>BioSciTools-v1.2.5</h3>
+    <h3>BioSciTools-v1.3.0</h3>
     <b>Github:</b> <a href="https://github.com/BioSciTools/BioSciTools.github.io" style="color: #ffffff">https://github.com/BioSciTools/BioSciTools.github.io</a> <br />
     <b>Website:</b> <a href="https://bioscitools.github.io" style="color: #ffffff">https://bioscitools.github.io</a> <br />
     <b>SourceForge:</b> <a href="https://sourceforge.net/projects/bioscitools-github-io/" style="color: #ffffff">https://sourceforge.net/projects/bioscitools-github-io/</a> <br />
     <br/>
-    <b>Download1 (SourceForge):</b> <a href="https://sourceforge.net/projects/bioscitools-github-io/files/latest/download" style="color: #ffffff">BioSciTools-v1.2.5 [Windows]</a> <br />
-    <b>Download2 (AliyunDrive):</b> <a href="https://www.aliyundrive.com/s/Defuhf7FVGw" style="color: #ffffff">BioSciTools-v1.2.5 [Windows]</a> <br />
-    <b>Download3 (Github Release):</b> <a href="https://github.com/BioSciTools/BioSciTools.github.io/releases/download/v1.2.5/BioSciTools-v1.2.5.exe" style="color: #ffffff">BioSciTools-v1.2.5 [Windows]</a> <br />
+    <b>Download1 (SourceForge):</b> <a href="https://sourceforge.net/projects/bioscitools-github-io/files/latest/download" style="color: #ffffff">BioSciTools-v1.3.0 [Windows]</a> <br />
+    <b>Download2 (AliyunDrive):</b> <a href="https://www.aliyundrive.com/s/Defuhf7FVGw" style="color: #ffffff">BioSciTools-v1.3.0 [Windows]</a> <br />
+    <b>Download3 (Github Release):</b> <a href="https://github.com/BioSciTools/BioSciTools.github.io/releases/download/v1.3.0/BioSciTools-v1.3.0.exe" style="color: #ffffff">BioSciTools-v1.3.0 [Windows]</a> <br />
     <hr />
     <b>Author: Benben Miao</b> <br />
     <b>Email:</b> benben.miao@outlook.com <br />
+  </div>
+  <hr />
+
+  <div style="border-radius: 10px; background: #efefef; box-shadow:  20px 20px 60px #cdcdcd, -20px -20px 60px #ffffff; padding: 20px; line-height: 20px; font-family: 'SimHei'; font-size: 14px; text-align: justify;">
+    <h3>BioSciTools-v1.3.0</h3>
+    <b>Date: 2022-12-07</b> <br />
+    <b>Update: <a href="https://mp.weixin.qq.com/s/eHK8ILEzsjTWQCQyIYCMMQ" style="color: #008000">生物信息学Omics: https://mp.weixin.qq.com/s/eHK8ILEzsjTWQCQyIYCMMQ</a> <br /> </b>
+    <p><b>UI Design:</b> 1.1 The main purpose of updating the interface of BioSciToolsUI is to make the program simpler, more comfortable and more modern. I also examined my own aesthetic standards through continuous exploration, and finally found that a good interface needs clear logic, simple and comfortable interface (更新BioSciToolsUI界面主要为了使得程序更加简约、舒服、现代化，我也是在不断探索中审视自己的审美观，最终发现好的界面需要逻辑清晰、界面简约舒适).
+    <p><b>New App:</b> 2.1 The newly added Apps mainly include barstat, scatterplot, groupline, quantile q (QQ), density normal, boxstat, violinstat, piestat, dounstat, and Seq Motif in Sequence category (新增Apps主要包括Statistics分类中的BarStat, ScatterPlot, GroupLine, QuantileQ(QQ), DensityNormal, BoxStat, ViolinStat, PieStat, DountStat，以及Sequence分类中的Seq Motif程序).
+    <p><b>Bug Fixed:</b> 3.1 Temporarily shut down the use of Shiny Apps program, and the code logic and security problems are still being solved (暂时关闭Shiny Apps程序的使用，代码逻辑和安全问题仍然在解决).
   </div>
   <hr />
 
