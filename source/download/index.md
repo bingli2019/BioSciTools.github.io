@@ -12,17 +12,29 @@
   <br />
 
   <div style="border-radius: 10px; background: #008000aa; box-shadow: 0px 0px 10px #00800088; padding: 20px; line-height: 30px;">
-    <h3>BioSciTools-v1.3.2</h3>
+    <h3>BioSciTools-v1.3.3</h3>
     <b>Github:</b> <a href="https://github.com/BioSciTools/BioSciTools.github.io" style="color: #ffffff">https://github.com/BioSciTools/BioSciTools.github.io</a> <br />
     <b>Website:</b> <a href="https://bioscitools.github.io" style="color: #ffffff">https://bioscitools.github.io</a> <br />
     <b>SourceForge:</b> <a href="https://sourceforge.net/projects/bioscitools-github-io/" style="color: #ffffff">https://sourceforge.net/projects/bioscitools-github-io/</a> <br />
     <br/>
-    <b>Download1 (SourceForge):</b> <a href="https://sourceforge.net/projects/bioscitools-github-io/files/latest/download" style="color: #ffffff">BioSciTools-v1.3.2 [Windows]</a> <br />
-    <b>Download2 (AliyunDrive):</b> <a href="https://www.aliyundrive.com/s/Defuhf7FVGw" style="color: #ffffff">BioSciTools-v1.3.2 [Windows]</a> <br />
-    <b>Download3 (Github Release):</b> <a href="https://github.com/BioSciTools/BioSciTools.github.io/releases/download/v1.3.2/BioSciTools-v1.3.2.exe" style="color: #ffffff">BioSciTools-v1.3.2 [Windows]</a> <br />
+    <b>Download1 (SourceForge):</b> <a href="https://sourceforge.net/projects/bioscitools-github-io/files/latest/download" style="color: #ffffff">BioSciTools-v1.3.3 [Windows]</a> <br />
+    <b>Download2 (AliyunDrive):</b> <a href="https://www.aliyundrive.com/s/Defuhf7FVGw" style="color: #ffffff">BioSciTools-v1.3.3 [Windows]</a> <br />
+    <b>Download3 (Github Release):</b> <a href="https://github.com/BioSciTools/BioSciTools.github.io/releases/download/v1.3.3/BioSciTools-v1.3.3.exe" style="color: #ffffff">BioSciTools-v1.3.3 [Windows]</a> <br />
     <hr />
     <b>Author: Benben Miao</b> <br />
     <b>Email:</b> benben.miao@outlook.com <br />
+  </div>
+  <hr />
+
+  <div style="border-radius: 10px; background: #efefef; box-shadow:  20px 20px 60px #cdcdcd, -20px -20px 60px #ffffff; padding: 20px; line-height: 20px; font-family: 'SimHei'; font-size: 14px; text-align: justify;">
+    <h3>BioSciTools-v1.3.3</h3>
+    <b>Date: 2023-02-26</b> <br />
+    <b>Update: <a href="https://mp.weixin.qq.com/s/dYfH83mEccsLyeCoMLzoRw" style="color: #008000">生物信息学Omics: https://mp.weixin.qq.com/s/dYfH83mEccsLyeCoMLzoRw</a> <br /> </b>
+    <p><b>UI Design:</b> 1.1 This update beautifies the startup interface and the "BioSciTools" on the Home page, classifies and counts Echarts (此次更新美化启动界面和Home页面的`BioSciTools`所有程序分类和统计Echarts).
+    <p><b>New App:</b> 2.1 SingleCell classification of' Singlecell' is related to single cell differentiation trajectory ('monocle umap, monocle marker, monocle trajectories') and single cell spatial transcriptome ('spatial feature, spatial gene, spatial umap, spatialtsne, SpatialAirClusterMaker, SpatialAllClusterMaker, Spatial Slice`) a total of 10 programs.
+    <p><b>New App:</b> 2.2 Six programs related to differentially expressed genes and KEGG Pathway visualization (`mversusa (maplot), upset, PathwayNativeSinglesmaple, PathwayNativeMultisample, PathwayGraphvizsingle, PathwayGraphvizmulti') in the Transcriptomics classification.
+    <p><b>New App:</b> 2.3 Seven programs related to the operation of `sequences` nucleotide sequence or amino acid sequence (`seqslength, seqsheartail, seqsslice, seqsgc, seqstranslate, seqpalindrome, pairwise alignment').
+    <p><b>Bug Fixed:</b> 3.1 Fix the problem of slow loading of CDN when accessing the right sidebar page (修复右侧边栏页面访问时CDN加载缓慢的问题).
   </div>
   <hr />
 
